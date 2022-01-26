@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Jan 2022 05:32:56 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 51回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 51 回目 @大阪狭山 名の メンター と名の ニンジャ が集まりました。 会場は「UP っぷ（子育て支援・世代間交流センター）」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 10:00 - 10:10 (1…]]></description><link>https://coderdojo-hommachi.github.io/blog/2022-01-23-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io/blog/2022-01-23-report1/</guid><pubDate>Sun, 23 Jan 2022 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-hommachi.doorkeeper.jp/events/131564&quot;&gt;子ども向けプログラミング道場：コーダー道場 51 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Jan 2022 06:07:37 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 51回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 51 回目 @大阪狭山 名の メンター と名の ニンジャ が集まりました。 会場は「UP っぷ（子育て支援・世代間交流センター）」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 10:00 - 10:10 (1…]]></description><link>https://coderdojo-hommachi.github.io/blog/2022-01-23-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io/blog/2022-01-23-report1/</guid><pubDate>Sun, 23 Jan 2022 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-hommachi.doorkeeper.jp/events/131564&quot;&gt;子ども向けプログラミング道場：コーダー道場 51 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;3&lt;/code&gt;名の &lt;strong&gt;メンター&lt;/strong&gt; と&lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt;名の &lt;strong&gt;ニンジャ&lt;/strong&gt; が集まりました。&lt;/p&gt;
 &lt;p&gt;会場は「&lt;a href=&quot;http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html&quot;&gt;UP っぷ（子育て支援・世代間交流センター）&lt;/a&gt;」にて開催させていただきました。&lt;/p&gt;
 &lt;h2&gt;当日のスケジュール ⏰&lt;/h2&gt;
@@ -147,7 +147,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;アルファベットのローマ字の表を見ながらプログラミングをしています。&lt;/p&gt;
+&lt;p&gt;アルファベットのローマ字の表を見ながらプログラミングをしています。スクラッチプログラミング事例大全集もその横にあります。&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -176,6 +176,42 @@
 /static/6ec3995623737f934de902cd7e927ea3/1c72d/IMG_0017.jpg 590w,
 /static/6ec3995623737f934de902cd7e927ea3/a8a14/IMG_0017.jpg 885w,
 /static/6ec3995623737f934de902cd7e927ea3/a2510/IMG_0017.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Fusion360 でボタンをモデリングしています。フォームを使ってゲームにでてくるスライムを作りたいそうです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9993b492ca272e837b9e3620183f06f0/6a068/IMG_0129.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIEBQED/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAYTr6UvgtkwrVWK6TMJaiHAf/8QAHRAAAgMAAgMAAAAAAAAAAAAAAQIAAxEEEBMiMf/aAAgBAQABBQLRuGZLvqEOsJyJfWF8nHlibE9YVBJ7/8QAFxEBAAMAAAAAAAAAAAAAAAAAERAgIf/aAAgBAwEBPwGHCn//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AV//xAAfEAACAQIHAAAAAAAAAAAAAAAAASEQERIgIjEyM1H/2gAIAQEABj8ClGxxE7wJqmFuC2p+s7Xn/8QAHBAAAwACAwEAAAAAAAAAAAAAAAERITFBUWGB/9oACAEBAAE/IUpqMyBMtoyZMDrZpifZCerljQot4CwjwfjKbYXc52WDpkiKEP/aAAwDAQACAAMAAAAQo9XDdB//xAAYEQACAwAAAAAAAAAAAAAAAAABERAgMf/aAAgBAwEBPxCGLMp//8QAGREAAQUAAAAAAAAAAAAAAAAAEAABESEx/9oACAECAQE/EBlsoP8A/8QAHhABAQEAAgMAAwAAAAAAAAAAAREAITFBUXFhwdH/2gAIAQEAAT8QJIhIMjuGXJ3cXEfav6wRYQBZx8+TCGg2CJo9bjZPTl2vX3UHkRYr+POFL8j/AAzS8RElwANfFl5FewwAvvPgGnf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_0017&quot;
+        title=&quot;&quot;
+        src=&quot;/static/9993b492ca272e837b9e3620183f06f0/1c72d/IMG_0129.jpg&quot;
+        srcset=&quot;/static/9993b492ca272e837b9e3620183f06f0/a80bd/IMG_0129.jpg 148w,
+/static/9993b492ca272e837b9e3620183f06f0/1c91a/IMG_0129.jpg 295w,
+/static/9993b492ca272e837b9e3620183f06f0/1c72d/IMG_0129.jpg 590w,
+/static/9993b492ca272e837b9e3620183f06f0/a8a14/IMG_0129.jpg 885w,
+/static/9993b492ca272e837b9e3620183f06f0/6a068/IMG_0129.jpg 960w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -439,7 +475,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;HP が 0 になっても終了しないバグは発表中のメンターのアドバイスで解決しました。&lt;/p&gt;
+&lt;p&gt;HP がゼロになっても終了しないバグは発表中のメンターのアドバイスで解決しました。&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
