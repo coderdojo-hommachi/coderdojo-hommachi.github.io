@@ -1,4 +1,1781 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Nov 2022 12:20:27 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 61回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 61 回目 @大阪狭山 名の メンター と名の ニンジャ が集まりました。 会場は「UP っぷ（子育て支援・世代間交流センター）」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 10:00 - 10:10 (1…]]></description><link>https://coderdojo-hommachi.github.io/blog/2022-11-20-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io/blog/2022-11-20-report1/</guid><pubDate>Sun, 20 Nov 2022 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-osakasayama.doorkeeper.jp/events/146042&quot;&gt;子ども向けプログラミング道場：コーダー道場 61 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 22 Dec 2022 04:35:41 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 62回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 62 回目 @大阪狭山 名の メンター と名の ニンジャ が集まりました。 会場は「UP っぷ（子育て支援・世代間交流センター）」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 10:00 - 10:10 (1…]]></description><link>https://coderdojo-hommachi.github.io/blog/2022-12-18-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io/blog/2022-12-18-report1/</guid><pubDate>Sun, 18 Dec 2022 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-osakasayama.doorkeeper.jp/events/147631&quot;&gt;子ども向けプログラミング道場：コーダー道場 62 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;3&lt;/code&gt;名の &lt;strong&gt;メンター&lt;/strong&gt; と&lt;code class=&quot;language-text&quot;&gt;5&lt;/code&gt;名の &lt;strong&gt;ニンジャ&lt;/strong&gt; が集まりました。&lt;/p&gt;
+&lt;p&gt;会場は「&lt;a href=&quot;http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html&quot;&gt;UP っぷ（子育て支援・世代間交流センター）&lt;/a&gt;」にて開催させていただきました。&lt;/p&gt;
+&lt;h2&gt;当日のスケジュール ⏰&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00 - 10:10 (10 min)&lt;/td&gt;
+&lt;td&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:10 - 11:00 (50 min)&lt;/td&gt;
+&lt;td&gt;発表準備&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00 - 11:50 (50 min)&lt;/td&gt;
+&lt;td&gt;発表大会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:50 - 12:00 (10 min)&lt;/td&gt;
+&lt;td&gt;コンテスト受賞&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00 - 12:10 (10 min)&lt;/td&gt;
+&lt;td&gt;プレゼント大会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:10 - 12:15 (5 min)&lt;/td&gt;
+&lt;td&gt;クロージング &amp;#x26; 交流タイム&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;オープニング&lt;/h3&gt;
+&lt;p&gt;今年はコンテストの部門を 3 つに増やして発表大会を開催します。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cdea8776d7e5c447f3dd4c30a84a18c9/a2510/IMG_5190.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABqN8oR0hzDRsQH//EABsQAAICAwEAAAAAAAAAAAAAAAECABIQETED/9oACAEBAAEFAuDBcRfew3A9WQ2m4/Bj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHxAAAAYBBQAAAAAAAAAAAAAAAAECEBEhEjEyQVFh/9oACAEBAAY/ArfSuRSJGwZR4DVBFPTG/wD/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMRBBUWGR/9oACAEBAAE/ISsC71M+IlMtDWl+0u0KNUMSaT8ivh3l3LSO2pwMABjj/9oADAMBAAIAAwAAABBoP0H/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QI//EAB4QAQEAAgICAwAAAAAAAAAAAAERADEhQWHBEFGR/9oACAEBAAE/EAiqGjE84+SYyBUO5MDbOE6KccfXnBPRQOgauOGiqj7OAimh8Rp/cNZ8QxU7b3lnWAslR94aiXfx/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5190&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cdea8776d7e5c447f3dd4c30a84a18c9/1c72d/IMG_5190.jpg&quot;
+        srcset=&quot;/static/cdea8776d7e5c447f3dd4c30a84a18c9/a80bd/IMG_5190.jpg 148w,
+/static/cdea8776d7e5c447f3dd4c30a84a18c9/1c91a/IMG_5190.jpg 295w,
+/static/cdea8776d7e5c447f3dd4c30a84a18c9/1c72d/IMG_5190.jpg 590w,
+/static/cdea8776d7e5c447f3dd4c30a84a18c9/a8a14/IMG_5190.jpg 885w,
+/static/cdea8776d7e5c447f3dd4c30a84a18c9/a2510/IMG_5190.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;クリスマスが近いのでツリーが会場に飾っています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/fdaa8f6430118e0843b19acaf0988aba/a2510/IMG_5193.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgQD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEA/9oADAMBAAIQAxAAAAFit3JDXhnEYX6ehtiS7//EAB0QAAIBBAMAAAAAAAAAAAAAAAECAAMQERIEISP/2gAIAQEAAQUClR/TYx21C5L7mcluqaHNhb//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BI//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABoQAAICAwAAAAAAAAAAAAAAAAABETEQEiD/2gAIAQEABj8CHDzclI1V9f/EAB4QAQACAQQDAAAAAAAAAAAAAAEAESEQMUFRYbHR/9oACAEBAAE/ITedPeIABmEytARUAZS77QrZPSVK8aczZp//2gAMAwEAAgADAAAAEAgw8//EABgRAQADAQAAAAAAAAAAAAAAAAABESFB/9oACAEDAQE/EM6omFP/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAQ/9oACAECAQE/EKjq8u//xAAdEAEAAwEAAgMAAAAAAAAAAAABABEhMUFxUWGx/9oACAEBAAE/EBgjJZkLXwS5mAOwgiFr6j/Em6xP2Kl6fYiXLe1z2jSqw75IGRB2XM4gz//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5193&quot;
+        title=&quot;&quot;
+        src=&quot;/static/fdaa8f6430118e0843b19acaf0988aba/1c72d/IMG_5193.jpg&quot;
+        srcset=&quot;/static/fdaa8f6430118e0843b19acaf0988aba/a80bd/IMG_5193.jpg 148w,
+/static/fdaa8f6430118e0843b19acaf0988aba/1c91a/IMG_5193.jpg 295w,
+/static/fdaa8f6430118e0843b19acaf0988aba/1c72d/IMG_5193.jpg 590w,
+/static/fdaa8f6430118e0843b19acaf0988aba/a8a14/IMG_5193.jpg 885w,
+/static/fdaa8f6430118e0843b19acaf0988aba/a2510/IMG_5193.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;プレゼントの準備もできています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/720fd5459f4998c33af54bb1d87a40cd/a2510/IMG_5210.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBBAUC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAXSq2VYqCP6zljtmYV//xAAcEAADAAIDAQAAAAAAAAAAAAAAAQIDEQQSExT/2gAIAQEAAQUC7yzsj0gwSnGnvIvKrzRueTEn0yUIR//EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwEj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHRAAAgEEAwAAAAAAAAAAAAAAAAExAhESIRAgQf/aAAgBAQAGPwLiTJqTcGOLt4LTsiKiH0//xAAeEAADAAIBBQAAAAAAAAAAAAAAAREhMVEQQYGR8f/aAAgBAQABPyFaDvg5b6Y/gGDM1vAr32MJjG3cGcDyElUiFEUinTbmh//aAAwDAQACAAMAAAAQOBWy/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQAQUf/aAAgBAwEBPxAiMv8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EF1Ef//EACAQAQACAQQCAwAAAAAAAAAAAAEAESExQXGRgcGhsdH/2gAIAQEAAT8Qw6IzQ31EG6Kzbi+Ja0Pl+QqrXROQtcbsU5VAbR37IWBi0HJt9kY0pBS9PEfPFCse2Ar7amSzDzjs3P/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5210&quot;
+        title=&quot;&quot;
+        src=&quot;/static/720fd5459f4998c33af54bb1d87a40cd/1c72d/IMG_5210.jpg&quot;
+        srcset=&quot;/static/720fd5459f4998c33af54bb1d87a40cd/a80bd/IMG_5210.jpg 148w,
+/static/720fd5459f4998c33af54bb1d87a40cd/1c91a/IMG_5210.jpg 295w,
+/static/720fd5459f4998c33af54bb1d87a40cd/1c72d/IMG_5210.jpg 590w,
+/static/720fd5459f4998c33af54bb1d87a40cd/a8a14/IMG_5210.jpg 885w,
+/static/720fd5459f4998c33af54bb1d87a40cd/a2510/IMG_5210.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;プレゼント&lt;/h3&gt;
+&lt;p&gt;メンター や ニンジャ が会場で折ってくれた サンタ。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5f7cecc81df3ce804772f21ff9ae57cc/a2510/IMG_5201.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBQEE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAfWVxJEWQy+GsyVf/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERAhIh/9oACAEBAAEFAumdM6Y1cpeFyXJ1khCH/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHBAAAAYDAAAAAAAAAAAAAAAAAAEQITEyESCh/9oACAEBAAY/AlaRliSSF+ixaf/EAB0QAAMAAgIDAAAAAAAAAAAAAAABETFhIVFBkfH/2gAIAQEAAT8h2Gw2HgUnBtCeEhcq4G/PvEiZxRUfUGhHRHR//9oADAMBAAIAAwAAABCjIYz/xAAYEQEBAAMAAAAAAAAAAAAAAAABEBEhMf/aAAgBAwEBPxBE5Bxqf//EABYRAQEBAAAAAAAAAAAAAAAAABARQf/aAAgBAgEBPxC4Q//EAB4QAQACAQQDAAAAAAAAAAAAAAEAESEQMVHxYYHw/9oACAEBAAE/EHrx60+RL0AFbXc5YSShFtHrzC4mWQ2qFJlFbYk0Y8KBOhzgapf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5201&quot;
+        title=&quot;&quot;
+        src=&quot;/static/5f7cecc81df3ce804772f21ff9ae57cc/1c72d/IMG_5201.jpg&quot;
+        srcset=&quot;/static/5f7cecc81df3ce804772f21ff9ae57cc/a80bd/IMG_5201.jpg 148w,
+/static/5f7cecc81df3ce804772f21ff9ae57cc/1c91a/IMG_5201.jpg 295w,
+/static/5f7cecc81df3ce804772f21ff9ae57cc/1c72d/IMG_5201.jpg 590w,
+/static/5f7cecc81df3ce804772f21ff9ae57cc/a8a14/IMG_5201.jpg 885w,
+/static/5f7cecc81df3ce804772f21ff9ae57cc/a2510/IMG_5201.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;保護者からの クリスマスの お菓子。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f4f7c11068eaf6dc2b306ae0c4e75c32/a2510/IMG_5280.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgUE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAR7eSHlAsrPk1DMD/8QAHRAAAgICAwEAAAAAAAAAAAAAAAECAxESBBMhQf/aAAgBAQABBQLjQ1plhnySxBWeKxYusThSjVDE2jtmf//EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwEr/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/ASv/xAAdEAACAQQDAAAAAAAAAAAAAAAAATECESFBECIy/9oACAEBAAY/Ak9vImnlEMdtEGTq7jvSRxJ6Z//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExEGFxof/aAAgBAQABPyG4Nu0CZguiCgFU7luRQhmizfUcXF8lNyExcFLxmyyNmPnjoEeMpl//2gAMAwEAAgADAAAAEFfUQf/EABcRAQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8QhbH/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8QTBF//8QAHxABAAICAQUBAAAAAAAAAAAAAQARITFBUWFxgaGx/9oACAEBAAE/EMGC0ejj5+wELQsWGn5DBxVhLhMXDHWDBLDQjbKQZipeEj3IzE7QF12r1NSko8idfRL2mo2mQxXITRKPNz//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5280&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f4f7c11068eaf6dc2b306ae0c4e75c32/1c72d/IMG_5280.jpg&quot;
+        srcset=&quot;/static/f4f7c11068eaf6dc2b306ae0c4e75c32/a80bd/IMG_5280.jpg 148w,
+/static/f4f7c11068eaf6dc2b306ae0c4e75c32/1c91a/IMG_5280.jpg 295w,
+/static/f4f7c11068eaf6dc2b306ae0c4e75c32/1c72d/IMG_5280.jpg 590w,
+/static/f4f7c11068eaf6dc2b306ae0c4e75c32/a8a14/IMG_5280.jpg 885w,
+/static/f4f7c11068eaf6dc2b306ae0c4e75c32/a2510/IMG_5280.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ponos.jp/&quot;&gt;ポノス様&lt;/a&gt; からの &lt;a href=&quot;https://battlecats.club/&quot;&gt;にゃんこ大戦争&lt;/a&gt; の パーカー。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c86fbba1055561d7e47ed0fdafc3c980/a2510/IMG_5194.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgYE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAbPuyM+VK0U5xsdw4j//xAAeEAACAgICAwAAAAAAAAAAAAABAgMRABIEIRMxQf/aAAgBAQABBQKQUvdTAeVQCPecsVMopfsqbNsVxJpLB6//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAVEQEBAAAAAAAAAAAAAAAAAAAgMf/aAAgBAgEBPwGj/8QAHRAAAgIBBQAAAAAAAAAAAAAAAAERIRACIjJhgf/aAAgBAQAGPwLYoFRqlk48KOiSm0c3j//EAB0QAQEBAAICAwAAAAAAAAAAAAERACExQVFhcZH/2gAIAQEAAT8hS1j6PGotyne6eVuPDrIjkQ9XdCJQ6cDjcwT7XS161X5jlwofOZK7/9oADAMBAAIAAwAAABCkAL//xAAWEQEBAQAAAAAAAAAAAAAAAAABIEH/2gAIAQMBAT8QHY//xAAYEQEBAAMAAAAAAAAAAAAAAAAAARExQf/aAAgBAgEBPxCzpGmX/8QAHhABAAICAgMBAAAAAAAAAAAAAQARMVEhYUFxseH/2gAIAQEAAT8QEFXY3rAna5VHJDNapHSEUMVhGxPcVBzRHR4SHOPyVa8sGC8xsF0L0J4TVSgFtTHbARe7SCcQVR+x8BU0T//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5194&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c86fbba1055561d7e47ed0fdafc3c980/1c72d/IMG_5194.jpg&quot;
+        srcset=&quot;/static/c86fbba1055561d7e47ed0fdafc3c980/a80bd/IMG_5194.jpg 148w,
+/static/c86fbba1055561d7e47ed0fdafc3c980/1c91a/IMG_5194.jpg 295w,
+/static/c86fbba1055561d7e47ed0fdafc3c980/1c72d/IMG_5194.jpg 590w,
+/static/c86fbba1055561d7e47ed0fdafc3c980/a8a14/IMG_5194.jpg 885w,
+/static/c86fbba1055561d7e47ed0fdafc3c980/a2510/IMG_5194.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;メンター手作りの &lt;a href=&quot;http://www.mydoo.net/sayarin/&quot;&gt;さやりん&lt;/a&gt; の ペンダントトップ。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8a35e7e3757a022ae57265df51b66a91/a2510/IMG_5196.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGWkshMAw0uW6G4nBP/xAAeEAABBAEFAAAAAAAAAAAAAAABAAIDESEEEBIiI//aAAgBAQABBQKBtROsjm5RYiF1qB6xu65UrLcCd//EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAwEBPwFcj//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABoQAAICAwAAAAAAAAAAAAAAAAABAjERICH/2gAIAQEABj8CiUYZA6MSRev/xAAcEAEBAQEAAgMAAAAAAAAAAAABEQAhMVFBcfH/2gAIAQEAAT8hSMXmMd6KrEZlBLzS9n3d0veRM+Mn4ZLk8YidcrPOd//aAAwDAQACAAMAAAAQKOGC/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBECH/2gAIAQMBAT8QJTFSH//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EIiq/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARIXFhMUH/2gAIAQEAAT8QChN2HrBJBCrqNjbISoh7sTPh2UJZVreHlxwA4HOQJmE2Wm/1fEtXXGp7DIIMxiNJ6wCz/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5196&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8a35e7e3757a022ae57265df51b66a91/1c72d/IMG_5196.jpg&quot;
+        srcset=&quot;/static/8a35e7e3757a022ae57265df51b66a91/a80bd/IMG_5196.jpg 148w,
+/static/8a35e7e3757a022ae57265df51b66a91/1c91a/IMG_5196.jpg 295w,
+/static/8a35e7e3757a022ae57265df51b66a91/1c72d/IMG_5196.jpg 590w,
+/static/8a35e7e3757a022ae57265df51b66a91/a8a14/IMG_5196.jpg 885w,
+/static/8a35e7e3757a022ae57265df51b66a91/a2510/IMG_5196.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;コンテストの副賞の micro:bit と CoderDojo のメダル。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/96cc55244073ed6b336069152f24b6f8/a2510/IMG_5197.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGAv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABkEVQsBs1MyM7yOiKIL//xAAbEAACAgMBAAAAAAAAAAAAAAAAAgESAxMhEf/aAAgBAQABBQLsnCFgW7JqYS1cKTWpKybHNuTy7n//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAdEAABBAIDAAAAAAAAAAAAAAAAAREhMhCRAjGB/9oACAEBAAY/ApZELPhGj0s52+YLLsvy2WXZ/8QAHBABAQEAAwADAAAAAAAAAAAAAREAITFhQYGh/9oACAEBAAE/IVPsfdFYmdmETr8wqPDgNpT8twAEo4qYMt7dep5ZA42+wYMF2//aAAwDAQACAAMAAAAQy9k+/8QAFxEBAQEBAAAAAAAAAAAAAAAAARAhQf/aAAgBAwEBPxBXhDJ//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/ELuriI//xAAdEAEBAAIDAAMAAAAAAAAAAAABEQAhMVGBQbHx/9oACAEBAAE/EDdFwTYeRHzAs+34G+Y2DF4wLAJpZJrgMMYnGp+831RVP5kFiMU21uJLtB7MlSCbveak/WJVu05dYpJZ2z//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5197&quot;
+        title=&quot;&quot;
+        src=&quot;/static/96cc55244073ed6b336069152f24b6f8/1c72d/IMG_5197.jpg&quot;
+        srcset=&quot;/static/96cc55244073ed6b336069152f24b6f8/a80bd/IMG_5197.jpg 148w,
+/static/96cc55244073ed6b336069152f24b6f8/1c91a/IMG_5197.jpg 295w,
+/static/96cc55244073ed6b336069152f24b6f8/1c72d/IMG_5197.jpg 590w,
+/static/96cc55244073ed6b336069152f24b6f8/a8a14/IMG_5197.jpg 885w,
+/static/96cc55244073ed6b336069152f24b6f8/a2510/IMG_5197.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;発表大会&lt;/h3&gt;
+&lt;h4&gt;発表１&lt;/h4&gt;
+&lt;p&gt;メンターの &lt;a href=&quot;https://bitarrow.eplang.jp/&quot;&gt;Bit Arrow&lt;/a&gt; の紹介です。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bbc9aa76ea54f9f9a4a5f2985280953a/a2510/IMG_5211.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMCAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAdZp3KaqvGvGkoH/xAAbEAADAAMBAQAAAAAAAAAAAAAAAQIDERIQE//aAAgBAQABBQLhnDPnQsm6d6JyNSqpCyUbrxDP/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8BY//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/ASP/xAAcEAABAwUAAAAAAAAAAAAAAAABABAxIDJBUZH/2gAIAQEABj8CaEANNLXdWKP/xAAfEAEAAgEDBQAAAAAAAAAAAAABABEhMUGREFFhcYH/2gAIAQEAAT8he8RgJu4lHhGym0HDNniHBzlmDrj1NDZPqN2OUOjVP//aAAwDAQACAAMAAAAQ7Bi+/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBEEH/2gAIAQMBAT8QbBzSP//EABcRAAMBAAAAAAAAAAAAAAAAAAAQEWH/2gAIAQIBAT8Q0RU//8QAHRABAAMAAgMBAAAAAAAAAAAAAQARITFxQVFhgf/aAAgBAQABPxAAtheZWQBxvzYBYx2ioyrzqfuxjFxxpssOg133cJOQgRpHmoEqhlAR08w9GT4Wc7gGsmMT/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5211&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bbc9aa76ea54f9f9a4a5f2985280953a/1c72d/IMG_5211.jpg&quot;
+        srcset=&quot;/static/bbc9aa76ea54f9f9a4a5f2985280953a/a80bd/IMG_5211.jpg 148w,
+/static/bbc9aa76ea54f9f9a4a5f2985280953a/1c91a/IMG_5211.jpg 295w,
+/static/bbc9aa76ea54f9f9a4a5f2985280953a/1c72d/IMG_5211.jpg 590w,
+/static/bbc9aa76ea54f9f9a4a5f2985280953a/a8a14/IMG_5211.jpg 885w,
+/static/bbc9aa76ea54f9f9a4a5f2985280953a/a2510/IMG_5211.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Web ブラウザでプログラミング言語が実行できるので便利です。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f742364402b74c2bdef53ddc70cbfc59/a2510/IMG_5214.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECBAP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAZbrLB0CyGWUokb/xAAeEAACAQQDAQAAAAAAAAAAAAAAAQMCERITBBAhQf/aAAgBAQABBQK/VxUGs1ocrHM0ZZOo+cnyb//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwFnf//EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8BhMR//8QAHRAAAQMFAQAAAAAAAAAAAAAAAAECMhARICExgf/aAAgBAQAGPwLDpIk3w0qF3VU//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFREGGx/9oACAEBAAE/IYvw7WUuiPUJQx42HD2cRvNazABl8w03BQMw+T//2gAMAwEAAgADAAAAEKD7w//EABgRAQADAQAAAAAAAAAAAAAAAAEAEBEh/9oACAEDAQE/EEjlEjxyf//EABgRAAMBAQAAAAAAAAAAAAAAAAABESEQ/9oACAECAQE/EFavGQ0qf//EAB4QAQACAgIDAQAAAAAAAAAAAAEAESExQWFRcZHR/9oACAEBAAE/EAzFrmUgu2I3CTsPhr9gfeQWn2EAwUoHo9zKGsUaPsAVolBziYjIdwBoNIUaT//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5214&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f742364402b74c2bdef53ddc70cbfc59/1c72d/IMG_5214.jpg&quot;
+        srcset=&quot;/static/f742364402b74c2bdef53ddc70cbfc59/a80bd/IMG_5214.jpg 148w,
+/static/f742364402b74c2bdef53ddc70cbfc59/1c91a/IMG_5214.jpg 295w,
+/static/f742364402b74c2bdef53ddc70cbfc59/1c72d/IMG_5214.jpg 590w,
+/static/f742364402b74c2bdef53ddc70cbfc59/a8a14/IMG_5214.jpg 885w,
+/static/f742364402b74c2bdef53ddc70cbfc59/a2510/IMG_5214.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Python の環境で変数の値を表示するデモです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2cb4a3a4cb46a51a31d0eaffbcac1cc7/a2510/IMG_5213.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAeHZ5sShGAm6gaA//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECAxESITH/2gAIAQEAAQUCyZMmiNUN1RHMdjal7PxLlvX/AP/EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwFnf//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/ASP/xAAdEAADAAAHAAAAAAAAAAAAAAAAARECECAiQmGR/9oACAEBAAY/AtMxHP0qqN1uafR//8QAHRABAAICAgMAAAAAAAAAAAAAAQARIUEQMWFxsf/aAAgBAQABPyHmEW/Edsplo1Tyx7gAPyJHi3udELWAWBU2z//aAAwDAQACAAMAAAAQ0Pu//8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAEP/aAAgBAwEBPxBhnCZI7//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQIBAT8QNG2Q8h0v/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFBEFGR/9oACAEBAAE/EASvSPgSlLiTTK9QGGm6pcjDSnA93qpsG3RPph80Ui98ZCCHTkbqFhnoWuT/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5213&quot;
+        title=&quot;&quot;
+        src=&quot;/static/2cb4a3a4cb46a51a31d0eaffbcac1cc7/1c72d/IMG_5213.jpg&quot;
+        srcset=&quot;/static/2cb4a3a4cb46a51a31d0eaffbcac1cc7/a80bd/IMG_5213.jpg 148w,
+/static/2cb4a3a4cb46a51a31d0eaffbcac1cc7/1c91a/IMG_5213.jpg 295w,
+/static/2cb4a3a4cb46a51a31d0eaffbcac1cc7/1c72d/IMG_5213.jpg 590w,
+/static/2cb4a3a4cb46a51a31d0eaffbcac1cc7/a8a14/IMG_5213.jpg 885w,
+/static/2cb4a3a4cb46a51a31d0eaffbcac1cc7/a2510/IMG_5213.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;高校の情報の授業は &lt;a href=&quot;https://ten.tokyo-shoseki.co.jp/text/hs/joho/h-kyozai/&quot;&gt;Python 入門&lt;/a&gt; を副教材で使っています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dc0e96792352d7d4d80738f154a33e83/a2510/IMG_5216.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAbMqXK4BZ4b2nUyL/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIAEgMQEyD/2gAIAQEAAQUCJll1YKe62hgwNbx//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAQQDAAAAAAAAAAAAAAAAAQACECAhMVH/2gAIAQEABj8ClxKw2COoar//xAAaEAEAAgMBAAAAAAAAAAAAAAABABEQITFR/9oACAEBAAE/IRuct3cqHAQEWBovBs8tQKcDLjDH/9oADAMBAAIAAwAAABAI9EL/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCkP//EABgRAAIDAAAAAAAAAAAAAAAAAAEQESEx/9oACAECAQE/EKGoiV//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMRBBUYH/2gAIAQEAAT8QCx62+TICxViUjC0Q/bhHbktARuvI7Zb2tDqXlZXecNxsrNuNz//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5216&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dc0e96792352d7d4d80738f154a33e83/1c72d/IMG_5216.jpg&quot;
+        srcset=&quot;/static/dc0e96792352d7d4d80738f154a33e83/a80bd/IMG_5216.jpg 148w,
+/static/dc0e96792352d7d4d80738f154a33e83/1c91a/IMG_5216.jpg 295w,
+/static/dc0e96792352d7d4d80738f154a33e83/1c72d/IMG_5216.jpg 590w,
+/static/dc0e96792352d7d4d80738f154a33e83/a8a14/IMG_5216.jpg 885w,
+/static/dc0e96792352d7d4d80738f154a33e83/a2510/IMG_5216.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h4&gt;発表２&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.roblox.com/&quot;&gt;Roblox&lt;/a&gt; でメタバースの東京の街を作っています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/69a6d09de8649b355efd0ff11b77253b/a2510/IMG_5220.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAWWsyjLBeHTi5uZh/8QAHRAAAgIBBQAAAAAAAAAAAAAAAAIBEgMQERMiMf/aAAgBAQABBQKslZNpLKWgRztbkaRci6r5/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8BY//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/ASP/xAAcEAACAgIDAAAAAAAAAAAAAAAAEQExAiEQIJH/2gAIAQEABj8CrlFkuIsbNrw3jl0//8QAHhAAAwABBAMAAAAAAAAAAAAAAAERIUFRYXEQMYH/2gAIAQEAAT8heTIe0cRvFZfg/TPVEzgnQmmSjBVZqoZA8pPRiF4P/9oADAMBAAIAAwAAABA/5LH/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EGjy1ksL/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREDH/2gAIAQIBAT8Qh9Ii5//EABoQAQEBAQEBAQAAAAAAAAAAAAERACFBcZH/2gAIAQEAAT8QCiU98fmCDfcYFhGjK+mDcYqH0PzMYRXYV4mYgnCSwPO6aI8VPuSSYKMcOYEu6K7/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5220&quot;
+        title=&quot;&quot;
+        src=&quot;/static/69a6d09de8649b355efd0ff11b77253b/1c72d/IMG_5220.jpg&quot;
+        srcset=&quot;/static/69a6d09de8649b355efd0ff11b77253b/a80bd/IMG_5220.jpg 148w,
+/static/69a6d09de8649b355efd0ff11b77253b/1c91a/IMG_5220.jpg 295w,
+/static/69a6d09de8649b355efd0ff11b77253b/1c72d/IMG_5220.jpg 590w,
+/static/69a6d09de8649b355efd0ff11b77253b/a8a14/IMG_5220.jpg 885w,
+/static/69a6d09de8649b355efd0ff11b77253b/a2510/IMG_5220.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;まずは街をドライブする車を３台からオーディエンスに選んでもらいます。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3cc2a3802778b216f13212d9cd995f02/a2510/IMG_5400.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAQCAwUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIQAxAAAAHk+20M8lQKpq42bO9qTUeQgZ//xAAdEAACAgIDAQAAAAAAAAAAAAABAgMSABARFCEx/9oACAEBAAEFAtxxFx1jjJVo2qkcijHPL2GWGx9I9//EABgRAQADAQAAAAAAAAAAAAAAAAECEBIg/9oACAEDAQE/AdUxHj//xAAXEQADAQAAAAAAAAAAAAAAAAAQERIg/9oACAECAQE/AUKx/8QAHRAAAgEEAwAAAAAAAAAAAAAAAAEQAhEgMSEyUf/aAAgBAQAGPwKbo2hrw7I5qQ3G8f/EAB0QAAMAAgIDAAAAAAAAAAAAAAABESFRQWEQMYH/2gAIAQEAAT8hhkyYWTtiZgbLyh6xT0xo38pyFWLuEKra8JUWyEH/2gAMAwEAAgADAAAAEGvGw/8Az//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPxBBjQL/AP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESD/2gAIAQIBAT8QHZCDOP/EACAQAQACAQQCAwAAAAAAAAAAAAEAESExQVFxYZGB0fD/2gAIAQEAAT8QFABQoROT7hkjZPwTGre1jJC0VHEIMibt06qDSu1X6hnNFR5zFag+IrYd4g+T3S4TmipqEwuvM//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5400&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3cc2a3802778b216f13212d9cd995f02/1c72d/IMG_5400.jpg&quot;
+        srcset=&quot;/static/3cc2a3802778b216f13212d9cd995f02/a80bd/IMG_5400.jpg 148w,
+/static/3cc2a3802778b216f13212d9cd995f02/1c91a/IMG_5400.jpg 295w,
+/static/3cc2a3802778b216f13212d9cd995f02/1c72d/IMG_5400.jpg 590w,
+/static/3cc2a3802778b216f13212d9cd995f02/a8a14/IMG_5400.jpg 885w,
+/static/3cc2a3802778b216f13212d9cd995f02/a2510/IMG_5400.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;コースターに乗って街を紹介します。レールは自分で組み立てました。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ad4b631ddf4302fffa37392e3f750b7a/a2510/IMG_5225.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGftmnlAXGCNIYtGGQP/8QAGRABAAMBAQAAAAAAAAAAAAAAAAEREgMg/9oACAEBAAEFAssqR0baXC1+P//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIS/9oACAEDAQE/AXpnZCI//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAgEBPwHLK5XL/8QAGhABAAIDAQAAAAAAAAAAAAAAADFBECAhMv/aAAgBAQAGPwJOOqU8oRp//8QAHhAAAgEDBQAAAAAAAAAAAAAAAAERIVGhEEFxkfH/2gAIAQEAAT8hQUFuGXNUIrdnBLyKOi9sSW5IW5ELT//aAAwDAQACAAMAAAAQhPPP/8QAGREAAwADAAAAAAAAAAAAAAAAAAEREDFR/9oACAEDAQE/EEHorhOL/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EDcEr//EAB8QAQABAwUBAQAAAAAAAAAAAAEAESFRMUFxkdGx8f/aAAgBAQABPxBKXSPSauUD5EHU7ghu8ERaADlHYs5QVA3K02ff6n7fqO80wn//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5225&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ad4b631ddf4302fffa37392e3f750b7a/1c72d/IMG_5225.jpg&quot;
+        srcset=&quot;/static/ad4b631ddf4302fffa37392e3f750b7a/a80bd/IMG_5225.jpg 148w,
+/static/ad4b631ddf4302fffa37392e3f750b7a/1c91a/IMG_5225.jpg 295w,
+/static/ad4b631ddf4302fffa37392e3f750b7a/1c72d/IMG_5225.jpg 590w,
+/static/ad4b631ddf4302fffa37392e3f750b7a/a8a14/IMG_5225.jpg 885w,
+/static/ad4b631ddf4302fffa37392e3f750b7a/a2510/IMG_5225.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;コースターに飛び乗ります。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1fae9161d166007fb28c26eb12689667/a2510/IMG_5420.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAIEAQMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/9oADAMBAAIQAxAAAAHsLGiXEIkAuc9WNYf/xAAZEAACAwEAAAAAAAAAAAAAAAAAEgIQESD/2gAIAQEAAQUCYYcWd71//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPwGEe//EABYRAAMAAAAAAAAAAAAAAAAAAAAQIf/aAAgBAgEBPwEj/8QAGxAAAQQDAAAAAAAAAAAAAAAAEAABAjIgMZH/2gAIAQEABj8CGhZuq8c//8QAHxAAAwABAwUAAAAAAAAAAAAAAAERMSBhcSFBUaHh/9oACAEBAAE/IeJcwrybvYU8dN2R9zVfQryXQ26f/9oADAMBAAIAAwAAABB7L8//xAAXEQADAQAAAAAAAAAAAAAAAAABESBB/9oACAEDAQE/EC2x/wD/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARUf/aAAgBAgEBPxBNF4n/xAAgEAEAAgECBwAAAAAAAAAAAAABABExEGEhQVGBkdHh/9oACAEBAAE/EEJbTecXVJxFuRe0ISg6hxAmw9rH6D1LMrzovQhqDP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5420&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1fae9161d166007fb28c26eb12689667/1c72d/IMG_5420.jpg&quot;
+        srcset=&quot;/static/1fae9161d166007fb28c26eb12689667/a80bd/IMG_5420.jpg 148w,
+/static/1fae9161d166007fb28c26eb12689667/1c91a/IMG_5420.jpg 295w,
+/static/1fae9161d166007fb28c26eb12689667/1c72d/IMG_5420.jpg 590w,
+/static/1fae9161d166007fb28c26eb12689667/a8a14/IMG_5420.jpg 885w,
+/static/1fae9161d166007fb28c26eb12689667/a2510/IMG_5420.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;空の景色も綺麗です。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/06e83044adb1faea33754683ec3a8a4d/a2510/IMG_5227.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAD/9oADAMBAAIQAxAAAAGc6S3xgLCJGT6W4UTf/8QAGhAAAwADAQAAAAAAAAAAAAAAAAESAhETIP/aAAgBAQABBQKSTRR0bHkzoiy/H//EABcRAQEBAQAAAAAAAAAAAAAAAAASARH/2gAIAQMBAT8BvVJxx//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAgEBPwHDKq//xAAaEAACAgMAAAAAAAAAAAAAAAAAQTEyARAg/9oACAEBAAY/AidIQihXBHH/xAAeEAACAQMFAAAAAAAAAAAAAAAAAREhQZEgMVFh8f/aAAgBAQABPyFFRVxMmnvAb1H1oXY4kyR9Byty9H//2gAMAwEAAgADAAAAEBzhM//EABgRAQEAAwAAAAAAAAAAAAAAAAEAEBFR/9oACAEDAQE/EHhDTBrf/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBQf/aAAgBAgEBPxDK60tT/8QAIRABAAIABQUBAAAAAAAAAAAAAQARITFBUdEQgZGhsfD/2gAIAQEAAT8QRzQi1d1o+RJzPMTsXVbTGIHSi94xCZtaEUMC7rZdzcoSuv8AG8IdP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5227&quot;
+        title=&quot;&quot;
+        src=&quot;/static/06e83044adb1faea33754683ec3a8a4d/1c72d/IMG_5227.jpg&quot;
+        srcset=&quot;/static/06e83044adb1faea33754683ec3a8a4d/a80bd/IMG_5227.jpg 148w,
+/static/06e83044adb1faea33754683ec3a8a4d/1c91a/IMG_5227.jpg 295w,
+/static/06e83044adb1faea33754683ec3a8a4d/1c72d/IMG_5227.jpg 590w,
+/static/06e83044adb1faea33754683ec3a8a4d/a8a14/IMG_5227.jpg 885w,
+/static/06e83044adb1faea33754683ec3a8a4d/a2510/IMG_5227.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;スカイツリーや東京タワー、東京総合病院や城など様々な建築が再現されています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0268d6e0c3fe15a93b975de2271e13cc/a2510/IMG_5230.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAEDBAUC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/9oADAMBAAIQAxAAAAGgaKeWcTgc6quMhwT/AP/EABsQAAEFAQEAAAAAAAAAAAAAAAABAhAREgMh/9oACAEBAAEFAqKjLCuY+r0hpB3qz//EABcRAQEBAQAAAAAAAAAAAAAAAAABEyH/2gAIAQMBAT8B0Ss4nH//xAAYEQACAwAAAAAAAAAAAAAAAAAAEQEQEv/aAAgBAgEBPwHEiHX/xAAcEAABAwUAAAAAAAAAAAAAAAAAARAxICEyQaH/2gAIAQEABj8CeFNljInlP//EABsQAAMAAwEBAAAAAAAAAAAAAAABESExYYEg/9oACAEBAAE/IamiplQhkjR6OjSWImm0uj6/DrDrA78f/9oADAMBAAIAAwAAABB498H/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAQ/9oACAEDAQE/EIuRLwEQ3//EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQIBAT8QGzDHVz//xAAdEAACAgIDAQAAAAAAAAAAAAABEQAhMVEQcaHR/9oACAEBAAE/EHkiJVCBKxpuEgcRYdoK/YdcxGz9guNBWbjoJI9g6muRpVWUoIOP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5230&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0268d6e0c3fe15a93b975de2271e13cc/1c72d/IMG_5230.jpg&quot;
+        srcset=&quot;/static/0268d6e0c3fe15a93b975de2271e13cc/a80bd/IMG_5230.jpg 148w,
+/static/0268d6e0c3fe15a93b975de2271e13cc/1c91a/IMG_5230.jpg 295w,
+/static/0268d6e0c3fe15a93b975de2271e13cc/1c72d/IMG_5230.jpg 590w,
+/static/0268d6e0c3fe15a93b975de2271e13cc/a8a14/IMG_5230.jpg 885w,
+/static/0268d6e0c3fe15a93b975de2271e13cc/a2510/IMG_5230.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;お城の中もきちんと作り込まれています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8b2f2cdda2ebab41791b9539103e86dd/a2510/IMG_5232.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHG+hJjlmwmh0MsIC//xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIRAxATICH/2gAIAQEAAQUC2uMaxklG6R4Pp//EABcRAAMBAAAAAAAAAAAAAAAAAAAQERL/2gAIAQMBAT8B0Ui//8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAECAQE/ASN//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAExMhAgIUH/2gAIAQEABj8Cz6SzhZFkTp//xAAcEAADAAEFAAAAAAAAAAAAAAAAARExICFRkfH/2gAIAQEAAT8hjhHN1BicgrjqMxcIHPQRcHo//9oADAMBAAIAAwAAABCIK8H/xAAYEQADAQEAAAAAAAAAAAAAAAAAARFRMf/aAAgBAwEBPxCsEzXCtIf/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8QOGb/xAAhEAEAAgIBAwUAAAAAAAAAAAABABEhMUEQUeFxscHR8f/aAAgBAQABPxAZUK1rvCuquy3AjqLD2vESpuOfCU1imbOZUM3pb8T8L6QDDE2XCGun/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5232&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8b2f2cdda2ebab41791b9539103e86dd/1c72d/IMG_5232.jpg&quot;
+        srcset=&quot;/static/8b2f2cdda2ebab41791b9539103e86dd/a80bd/IMG_5232.jpg 148w,
+/static/8b2f2cdda2ebab41791b9539103e86dd/1c91a/IMG_5232.jpg 295w,
+/static/8b2f2cdda2ebab41791b9539103e86dd/1c72d/IMG_5232.jpg 590w,
+/static/8b2f2cdda2ebab41791b9539103e86dd/a8a14/IMG_5232.jpg 885w,
+/static/8b2f2cdda2ebab41791b9539103e86dd/a2510/IMG_5232.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;十字路の信号機は赤と青が入れ替わるようにプログラミングされています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cc9acac8e1e76c2cb463e98236b86727/a2510/IMG_5235.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHDO+yslhvC7pPI1FQf/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECERITAyAy/9oACAEBAAEFAqMWUR41WlVrRHzki10//8QAFhEBAQEAAAAAAAAAAAAAAAAAABIT/9oACAEDAQE/AbWzZv/EABYRAQEBAAAAAAAAAAAAAAAAAAASEf/aAAgBAgEBPwHEqU//xAAaEAADAAMBAAAAAAAAAAAAAAAAATEQESBB/9oACAEBAAY/AjzWKylEVFXH/8QAHRAAAgIBBQAAAAAAAAAAAAAAAAERMfEQIEFRgf/aAAgBAQABPyFCJy16aWlfAWJj7IysVGWM9s//2gAMAwEAAgADAAAAEGAiQf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAEUFR/9oACAEDAQE/EEFiQ9se3//EABcRAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QR1T/xAAiEAEAAgEBCQEAAAAAAAAAAAABABExIRBBUWFxgZGxwdH/2gAIAQEAAT8Qd3QcAWEsxVxZXIcHDpPT+n5LGndqGRorl5TT+SX58CG3/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5235&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cc9acac8e1e76c2cb463e98236b86727/1c72d/IMG_5235.jpg&quot;
+        srcset=&quot;/static/cc9acac8e1e76c2cb463e98236b86727/a80bd/IMG_5235.jpg 148w,
+/static/cc9acac8e1e76c2cb463e98236b86727/1c91a/IMG_5235.jpg 295w,
+/static/cc9acac8e1e76c2cb463e98236b86727/1c72d/IMG_5235.jpg 590w,
+/static/cc9acac8e1e76c2cb463e98236b86727/a8a14/IMG_5235.jpg 885w,
+/static/cc9acac8e1e76c2cb463e98236b86727/a2510/IMG_5235.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h4&gt;発表３&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://procreate.com/jp&quot;&gt;Procreate&lt;/a&gt; でイラストを描いています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/424f949e9b71b36d131e6c78b58fd3cd/a2510/IMG_5238.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAGTXONYxwnF1KvTCgP/xAAbEAACAgMBAAAAAAAAAAAAAAABAgARAxASMf/aAAgBAQABBQKUdBgSWWJlFL0HOS4pStDz/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/ASv/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BI//EAB8QAAEDAwUAAAAAAAAAAAAAAAABESEQEiAxMkFRgf/aAAgBAQAGPwLSrdHBKDm1PCbnw//EAB0QAQACAQUBAAAAAAAAAAAAAAEAESEQMUFRcYH/2gAIAQEAAT8hpzlOStFh3Av2VMuE2Hu3iPN09xTVL3C8PlCAaX//2gAMAwEAAgADAAAAEOgwfv/EABgRAAMBAQAAAAAAAAAAAAAAAAABERAx/9oACAEDAQE/EHVwomf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/EEQXP//EABwQAQADAQEBAQEAAAAAAAAAAAEAESExUYFxof/aAAgBAQABPxCtoFNOMaNNgvkLx2AoriDAf9WsI6aQK4Xn8jtou9WePvIFZmpIvyOs5pxXyElC67Fif//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5238&quot;
+        title=&quot;&quot;
+        src=&quot;/static/424f949e9b71b36d131e6c78b58fd3cd/1c72d/IMG_5238.jpg&quot;
+        srcset=&quot;/static/424f949e9b71b36d131e6c78b58fd3cd/a80bd/IMG_5238.jpg 148w,
+/static/424f949e9b71b36d131e6c78b58fd3cd/1c91a/IMG_5238.jpg 295w,
+/static/424f949e9b71b36d131e6c78b58fd3cd/1c72d/IMG_5238.jpg 590w,
+/static/424f949e9b71b36d131e6c78b58fd3cd/a8a14/IMG_5238.jpg 885w,
+/static/424f949e9b71b36d131e6c78b58fd3cd/a2510/IMG_5238.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;ポケモンのニャローテです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f32279021df0648ed9c68190887384af/a2510/IMG_5241.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQBAwL/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABjWaxAsTXrZydnIV//8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERAhIg/9oACAEBAAEFAlk5hDm6eIcoWo3qq+P/xAAYEQADAQEAAAAAAAAAAAAAAAAQERIBIf/aAAgBAwEBPwGuicbH/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BhT//xAAaEAABBQEAAAAAAAAAAAAAAAABABARICEy/9oACAEBAAY/AtWNAAXIabf/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhURAgMUFh/9oACAEBAAE/IQcBSJwNHAu+E9xjbSaY6CXmxMJ96//aAAwDAQACAAMAAAAQQ/1x/8QAGREBAAIDAAAAAAAAAAAAAAAAAQAQETFB/9oACAEDAQE/ENBSw6mJ/8QAFhEBAQEAAAAAAAAAAAAAAAAAERAx/9oACAECAQE/EMsYT//EAB0QAQACAgIDAAAAAAAAAAAAAAEAERAxIYFBocH/2gAIAQEAAT8QsVkpqeiLFysSFt44U4FhY1dQzKuinx3Ocuwqt/Ii94Mf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5241&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f32279021df0648ed9c68190887384af/1c72d/IMG_5241.jpg&quot;
+        srcset=&quot;/static/f32279021df0648ed9c68190887384af/a80bd/IMG_5241.jpg 148w,
+/static/f32279021df0648ed9c68190887384af/1c91a/IMG_5241.jpg 295w,
+/static/f32279021df0648ed9c68190887384af/1c72d/IMG_5241.jpg 590w,
+/static/f32279021df0648ed9c68190887384af/a8a14/IMG_5241.jpg 885w,
+/static/f32279021df0648ed9c68190887384af/a2510/IMG_5241.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;水彩ブラシやエアーブラシなど編の種類が多いのがよいです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b940b71100f42308beb36f2634e0f00d/a2510/IMG_5424.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgUE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAc+92zeeNBWTdFHOJ//EABoQAAIDAQEAAAAAAAAAAAAAAAABAgMREhD/2gAIAQEAAQUCjXqdRhGWE7emdI60cmmkifn/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BdP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABoQAAICAwAAAAAAAAAAAAAAABEgAAEQMUH/2gAIAQEABj8CM3WSnE//xAAfEAEAAgEDBQAAAAAAAAAAAAABABFBECExUWFxgZH/2gAIAQEAAT8hXdAXUXCe9PH7jLtZwaxcAfZUN3idNMCK3P/aAAwDAQACAAMAAAAQmzxw/8QAFxEBAQEBAAAAAAAAAAAAAAAAEQABEP/aAAgBAwEBPxA1id5//8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBIf/aAAgBAgEBPxC5FcR//8QAHhABAQEAAwACAwAAAAAAAAAAAREAITFxQYFhobH/2gAIAQEAAT8Qbs0221+sK2QsI/plD1+8pg4C+jldcOtIddXzJy5PpXw3EvWVQM3PB8qmJWfvKIQEaT8YyjPN/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5424&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b940b71100f42308beb36f2634e0f00d/1c72d/IMG_5424.jpg&quot;
+        srcset=&quot;/static/b940b71100f42308beb36f2634e0f00d/a80bd/IMG_5424.jpg 148w,
+/static/b940b71100f42308beb36f2634e0f00d/1c91a/IMG_5424.jpg 295w,
+/static/b940b71100f42308beb36f2634e0f00d/1c72d/IMG_5424.jpg 590w,
+/static/b940b71100f42308beb36f2634e0f00d/a8a14/IMG_5424.jpg 885w,
+/static/b940b71100f42308beb36f2634e0f00d/a2510/IMG_5424.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;レイヤーやカットなど便利な機能もたくさんあります。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4f051f4df07da60502524f31db496d0c/a2510/IMG_5240.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAeZr2Y4S5NY8tcwoP//EABwQAAICAgMAAAAAAAAAAAAAAAABAhEQEhMgIf/aAAgBAQABBQKjV4jE4/KEzdl9P//EABcRAAMBAAAAAAAAAAAAAAAAAAEQEQL/2gAIAQMBAT8BOoVF/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQIBAT8BCP/EABcQAAMBAAAAAAAAAAAAAAAAACAwMaH/2gAIAQEABj8CC4j/xAAdEAEAAgEFAQAAAAAAAAAAAAABABEhIDFBUYHB/9oACAEBAAE/IRMaMV7KYDR8iBtccQjoiG0sKXS//9oADAMBAAIAAwAAABAwPkP/xAAXEQEBAQEAAAAAAAAAAAAAAAABACER/9oACAEDAQE/EMC2Q6ly/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/ENTYKT//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMRBxoWH/2gAIAQEAAT8Q1RcSFFHIHyog1CcYq5oyy6m1V9lnIPUpVImoqpRKZ9A9w5//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5240&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4f051f4df07da60502524f31db496d0c/1c72d/IMG_5240.jpg&quot;
+        srcset=&quot;/static/4f051f4df07da60502524f31db496d0c/a80bd/IMG_5240.jpg 148w,
+/static/4f051f4df07da60502524f31db496d0c/1c91a/IMG_5240.jpg 295w,
+/static/4f051f4df07da60502524f31db496d0c/1c72d/IMG_5240.jpg 590w,
+/static/4f051f4df07da60502524f31db496d0c/a8a14/IMG_5240.jpg 885w,
+/static/4f051f4df07da60502524f31db496d0c/a2510/IMG_5240.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h4&gt;発表４&lt;/h4&gt;
+&lt;p&gt;Fusion 360 で映画で登場するアイテムを作っています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/db1ba61d6a34849bf54f798d6cb3b16a/a2510/IMG_5243.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAGLb65kyhPLaXsjZiD/AP/EABsQAAICAwEAAAAAAAAAAAAAAAECABEDEBIT/9oACAEBAAEFApyZRiurHoU+Q9KWQ+hMDYq3/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8BY//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/ASP/xAAeEAACAQMFAAAAAAAAAAAAAAAAARECECAhIjFBgf/aAAgBAQAGPwK7S6INtKglM4Xhq3h//8QAHBABAAIDAQEBAAAAAAAAAAAAAQARITFBYRCR/9oACAEBAAE/IadUywwTymcJ2id1fstrA6k70bmJY10bjghffnIGJ//aAAwDAQACAAMAAAAQjC9x/8QAGBEBAQADAAAAAAAAAAAAAAAAAQAQETH/2gAIAQMBAT8QactsmP/EABgRAQADAQAAAAAAAAAAAAAAAAEAEBEx/9oACAECAQE/EAPZhNr/xAAcEAEBAQACAwEAAAAAAAAAAAABEQAhYUFRoTH/2gAIAQEAAT8QDWCcyYqKnWh56hgRU45PeTwvtGh+Pii/cwWK7jkgEHgK7zMnyl35oQ35Rijjf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5243&quot;
+        title=&quot;&quot;
+        src=&quot;/static/db1ba61d6a34849bf54f798d6cb3b16a/1c72d/IMG_5243.jpg&quot;
+        srcset=&quot;/static/db1ba61d6a34849bf54f798d6cb3b16a/a80bd/IMG_5243.jpg 148w,
+/static/db1ba61d6a34849bf54f798d6cb3b16a/1c91a/IMG_5243.jpg 295w,
+/static/db1ba61d6a34849bf54f798d6cb3b16a/1c72d/IMG_5243.jpg 590w,
+/static/db1ba61d6a34849bf54f798d6cb3b16a/a8a14/IMG_5243.jpg 885w,
+/static/db1ba61d6a34849bf54f798d6cb3b16a/a2510/IMG_5243.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;首輪爆弾模型 は名探偵コナンに登場するアイテムを再現しています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1c1bc16e9d5a87662b06f9c12597d2a6/a2510/IMG_5246.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/9oADAMBAAIQAxAAAAHNLHUTKNJtexOKxgD/AP/EABwQAAIBBQEAAAAAAAAAAAAAAAABEQISICEyQf/aAAgBAQABBQISIPFF1fQ9kYf/xAAWEQEBAQAAAAAAAAAAAAAAAAAQERL/2gAIAQMBAT8B0Q//xAAYEQACAwAAAAAAAAAAAAAAAAABEAIREv/aAAgBAgEBPwEwpaK//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQMREgIf/aAAgBAQAGPwIuVg7FLX//xAAdEAEBAQABBQEAAAAAAAAAAAABEQBRICExYXFB/9oACAEBAAE/IZ730Zwnmd+c2IH8k1CgHg09GcyHwzT0f//aAAwDAQACAAMAAAAQp98w/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxB6Qjpshdsv/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARYf/aAAgBAgEBPxDJs3SVXW//xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhMUFRgWFxsf/aAAgBAQABPxA5glJXagfIg1ZHc0iuWI7HBSJePcBfSghiGh4jiqLd1MW5ywm0Z//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5246&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1c1bc16e9d5a87662b06f9c12597d2a6/1c72d/IMG_5246.jpg&quot;
+        srcset=&quot;/static/1c1bc16e9d5a87662b06f9c12597d2a6/a80bd/IMG_5246.jpg 148w,
+/static/1c1bc16e9d5a87662b06f9c12597d2a6/1c91a/IMG_5246.jpg 295w,
+/static/1c1bc16e9d5a87662b06f9c12597d2a6/1c72d/IMG_5246.jpg 590w,
+/static/1c1bc16e9d5a87662b06f9c12597d2a6/a8a14/IMG_5246.jpg 885w,
+/static/1c1bc16e9d5a87662b06f9c12597d2a6/a2510/IMG_5246.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;3D プリンターで実際に印刷しています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/25bd9f3ba876ea8092a8654b49eded1c/a2510/IMG_5249.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAwX/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/9oADAMBAAIQAxAAAAGY6jaPJKRaJyvHQzAf/8QAHRAAAgIBBQAAAAAAAAAAAAAAABEBAhMDEBIyQv/aAAgBAQABBQJQKsCPLNbvmss0lrcp3//EABcRAQEBAQAAAAAAAAAAAAAAAAABEhH/2gAIAQMBAT8B0jMcf//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/AYU//8QAGxAAAQQDAAAAAAAAAAAAAAAAAAEQESEgMUH/2gAIAQEABj8CKZCKbhpCVw//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQSBRkaH/2gAIAQEAAT8hOyGIojuFDUagFwtD8QCleJtPGPiOH//aAAwDAQACAAMAAAAQXOoC/8QAGREBAQEAAwAAAAAAAAAAAAAAAQARIVFh/9oACAEDAQE/EF9S028IBwX/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EFkajKKf/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIRAxUXGB/9oACAEBAAE/EKWmoJgHdVlnA/GANiWsPEHoaYFXCDQGej3CBQANtAVAXtJ7KKrCoc//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5249&quot;
+        title=&quot;&quot;
+        src=&quot;/static/25bd9f3ba876ea8092a8654b49eded1c/1c72d/IMG_5249.jpg&quot;
+        srcset=&quot;/static/25bd9f3ba876ea8092a8654b49eded1c/a80bd/IMG_5249.jpg 148w,
+/static/25bd9f3ba876ea8092a8654b49eded1c/1c91a/IMG_5249.jpg 295w,
+/static/25bd9f3ba876ea8092a8654b49eded1c/1c72d/IMG_5249.jpg 590w,
+/static/25bd9f3ba876ea8092a8654b49eded1c/a8a14/IMG_5249.jpg 885w,
+/static/25bd9f3ba876ea8092a8654b49eded1c/a2510/IMG_5249.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;稼働するところはジョイントのアセンブリを使っています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0ca38c18a0749f59a08ee0906ed97c1b/a2510/IMG_5410.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUDAf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAZihpWclQKttonRUU4PAKugP/8QAGxAAAgMBAQEAAAAAAAAAAAAAAAECAxIREBP/2gAIAQEAAQUCyZOEKouEa4l0Vqtr5aLON+9Zpmmf/8QAGREAAgMBAAAAAAAAAAAAAAAAABIBAhAR/9oACAEDAQE/AZsdEF3/xAAWEQEBAQAAAAAAAAAAAAAAAAAREAD/2gAIAQIBAT8BI5v/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIhEBEgMVH/2gAIAQEABj8CypPZcEV4K0W0d8//xAAdEAADAAICAwAAAAAAAAAAAAAAARFRYRAxIHHB/9oACAEBAAE/IbNpwtSqvYg1AmKLKSwJmTmRK/pHRidZ8NjNh6j/2gAMAwEAAgADAAAAEEvqfXAf/8QAGBEBAQEBAQAAAAAAAAAAAAAAAREAEDH/2gAIAQMBAT8QizFFyFtxB73/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREgMf/aAAgBAgEBPxBWNHVw/8QAHxABAAICAgIDAAAAAAAAAAAAAQARIVExkRBhQXGB/9oACAEBAAE/EBDiYGQ/YgeeohNCrUR8Bito/FwNpDA9ss8IcjcvqeqMUkmOBtgSvXgDjulO32Q1dJ//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5410&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0ca38c18a0749f59a08ee0906ed97c1b/1c72d/IMG_5410.jpg&quot;
+        srcset=&quot;/static/0ca38c18a0749f59a08ee0906ed97c1b/a80bd/IMG_5410.jpg 148w,
+/static/0ca38c18a0749f59a08ee0906ed97c1b/1c91a/IMG_5410.jpg 295w,
+/static/0ca38c18a0749f59a08ee0906ed97c1b/1c72d/IMG_5410.jpg 590w,
+/static/0ca38c18a0749f59a08ee0906ed97c1b/a8a14/IMG_5410.jpg 885w,
+/static/0ca38c18a0749f59a08ee0906ed97c1b/a2510/IMG_5410.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;透明なパーツは アクリル か UV レジン でできそうです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/734a6c253c7215bf862f268360efa8b3/a2510/IMG_5252.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAGq0fdY5KdOljlEkyEV/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAIBEgMRExD/2gAIAQEAAQUCqUNFF1ONDNEQ/ZTqpkaze//EABgRAAMBAQAAAAAAAAAAAAAAAAABEhAh/9oACAEDAQE/AbF0hZ//xAAWEQEBAQAAAAAAAAAAAAAAAAAQERL/2gAIAQIBAT8ByU//xAAdEAABAwUBAAAAAAAAAAAAAAAAAREhEBIgMkFR/9oACAEBAAY/Aj2j2mpB0SFgfD//xAAdEAEBAQAABwAAAAAAAAAAAAABABEgITFBUWGR/9oACAEBAAE/IRWg6/GS4PlG7EWKGGQRmRcHoR5PHB//2gAMAwEAAgADAAAAECgrDf/EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQMBAT8QdSLwCEN//8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EImNuXb/xAAbEAEBAQACAwAAAAAAAAAAAAABEQAhMSBx8P/aAAgBAQABPxB2IT7ujCZMFTgFA7yWF40XpWGOpuJ1oUxfHQehBz4f/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5252&quot;
+        title=&quot;&quot;
+        src=&quot;/static/734a6c253c7215bf862f268360efa8b3/1c72d/IMG_5252.jpg&quot;
+        srcset=&quot;/static/734a6c253c7215bf862f268360efa8b3/a80bd/IMG_5252.jpg 148w,
+/static/734a6c253c7215bf862f268360efa8b3/1c91a/IMG_5252.jpg 295w,
+/static/734a6c253c7215bf862f268360efa8b3/1c72d/IMG_5252.jpg 590w,
+/static/734a6c253c7215bf862f268360efa8b3/a8a14/IMG_5252.jpg 885w,
+/static/734a6c253c7215bf862f268360efa8b3/a2510/IMG_5252.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;液体を実際に封じ込めて、よりリアルに再現するそうです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c6c7de0c8d8f69cd7b2d4a9cbbdd2667/a2510/IMG_5255.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB5noZVnxNEaQqCVSf/8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAEQMSECAx/9oACAEBAAEFAgs0rjHqVdkJPsvr/8QAFhEAAwAAAAAAAAAAAAAAAAAAEiAh/9oACAEDAQE/ASqf/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARAv/aAAgBAgEBPwEZqq//xAAaEAABBQEAAAAAAAAAAAAAAAABABASMDFB/9oACAEBAAY/An4iI5R//8QAHBAAAgICAwAAAAAAAAAAAAAAAAERMSFBIHGB/9oACAEBAAE/IWvQ9EvsgVDDMRTwwIqUTFE9k8P/2gAMAwEAAgADAAAAELjETv/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBFB/9oACAEDAQE/EMmIpR//xAAYEQEAAwEAAAAAAAAAAAAAAAABABAhMf/aAAgBAgEBPxBRkcYI5X//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMVEgQWHh/9oACAEBAAE/EKJVXyE1V3K/2NPZBnM3BYaZMWbX8YRDscWEMlI9kUbovab4/wD/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5255&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c6c7de0c8d8f69cd7b2d4a9cbbdd2667/1c72d/IMG_5255.jpg&quot;
+        srcset=&quot;/static/c6c7de0c8d8f69cd7b2d4a9cbbdd2667/a80bd/IMG_5255.jpg 148w,
+/static/c6c7de0c8d8f69cd7b2d4a9cbbdd2667/1c91a/IMG_5255.jpg 295w,
+/static/c6c7de0c8d8f69cd7b2d4a9cbbdd2667/1c72d/IMG_5255.jpg 590w,
+/static/c6c7de0c8d8f69cd7b2d4a9cbbdd2667/a8a14/IMG_5255.jpg 885w,
+/static/c6c7de0c8d8f69cd7b2d4a9cbbdd2667/a2510/IMG_5255.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h4&gt;発表５&lt;/h4&gt;
+&lt;p&gt;micro:bit のタイマーです。10 秒と 3 分の 2 つがあります。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3a8ef6469b49f6ff154d437968196525/a2510/IMG_5257.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAWVdaM5sDg6IZKEB/8QAGhABAAMBAQEAAAAAAAAAAAAAAQACEgMRE//aAAgBAQABBQLLMs8YdBtolOjkqlqr79EhCM//xAAWEQADAAAAAAAAAAAAAAAAAAABESD/2gAIAQMBAT8BLj//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAdEAABAwUBAAAAAAAAAAAAAAAAEBExEiAhMmGB/9oACAEBAAY/AoWnjpliSTR/bP/EAB0QAAMAAgIDAAAAAAAAAAAAAAABESExQVEQcYH/2gAIAQEAAT8heUNPAugS0S7LoapX6FFiikq9rgRwwe6i6ffwIbH/2gAMAwEAAgADAAAAEDPzgv/EABYRAQEBAAAAAAAAAAAAAAAAAAARUf/aAAgBAwEBPxDBUR//xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQFB/9oACAECAQE/EMnUVX//xAAfEAEAAwACAQUAAAAAAAAAAAABABEhMUFRYXGBkaH/2gAIAQEAAT8QsdBw2bCBWD6RRlosZd9PsE89ygWlWKu4KbCpmbn5APMCJSDq/MWAqXRv7i8CbwI+ISmB4mGHE//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5257&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3a8ef6469b49f6ff154d437968196525/1c72d/IMG_5257.jpg&quot;
+        srcset=&quot;/static/3a8ef6469b49f6ff154d437968196525/a80bd/IMG_5257.jpg 148w,
+/static/3a8ef6469b49f6ff154d437968196525/1c91a/IMG_5257.jpg 295w,
+/static/3a8ef6469b49f6ff154d437968196525/1c72d/IMG_5257.jpg 590w,
+/static/3a8ef6469b49f6ff154d437968196525/a8a14/IMG_5257.jpg 885w,
+/static/3a8ef6469b49f6ff154d437968196525/a2510/IMG_5257.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;まずは発表時間の 3 分タイマーをセットします。下から順に赤く光ります。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/58bfd617f683605b747b0fe7fce3756e/a2510/IMG_5260.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAZu2M4gKwctZmnQQn//EABsQAAICAwEAAAAAAAAAAAAAAAARAQIQEiAh/9oACAEBAAEFAkLHgoSgrZG4+P/EABgRAAIDAAAAAAAAAAAAAAAAAAARAQIQ/9oACAEDAQE/AZshiz//xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8BInP/xAAZEAABBQAAAAAAAAAAAAAAAAABABAhMDH/2gAIAQEABj8CeAFgo//EABsQAQACAwEBAAAAAAAAAAAAAAEAERAxQXGx/9oACAEBAAE/IRSx0fJUqnxR3rO0RTQRHPMb4Mf/2gAMAwEAAgADAAAAEKM7jP/EABgRAQADAQAAAAAAAAAAAAAAAAEAEBEx/9oACAEDAQE/EEAp2qV1mT//xAAZEQEAAgMAAAAAAAAAAAAAAAABABARIVH/2gAIAQIBAT8QAqcoI1Mz/8QAHRABAQEAAQUBAAAAAAAAAAAAAREAIRAxQVGRcf/aAAgBAQABPxBHhxdfQhJ9yjPAS2c1gBObXBmhjTwaoC/uhO/7qKCHrG7On//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5260&quot;
+        title=&quot;&quot;
+        src=&quot;/static/58bfd617f683605b747b0fe7fce3756e/1c72d/IMG_5260.jpg&quot;
+        srcset=&quot;/static/58bfd617f683605b747b0fe7fce3756e/a80bd/IMG_5260.jpg 148w,
+/static/58bfd617f683605b747b0fe7fce3756e/1c91a/IMG_5260.jpg 295w,
+/static/58bfd617f683605b747b0fe7fce3756e/1c72d/IMG_5260.jpg 590w,
+/static/58bfd617f683605b747b0fe7fce3756e/a8a14/IMG_5260.jpg 885w,
+/static/58bfd617f683605b747b0fe7fce3756e/a2510/IMG_5260.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;10 秒 タイマー は全点灯の機能を追加して、懐中電灯で使えるようにしました。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7f71aa9ffdccb202cab1042da93a22ae/a2510/IMG_5265.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAYm/ZjG1KnFJnrYJ/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECERMDEP/aAAgBAQABBQLIlzkZlpilfqdFs//EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEQ/9oACAEDAQE/AbCGzXv/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARIf/aAAgBAgEBPwFaylP/xAAXEAADAQAAAAAAAAAAAAAAAAABICEx/9oACAEBAAY/AtCGr//EABsQAQACAwEBAAAAAAAAAAAAAAEAIRExYRCR/9oACAEBAAE/Iab+kEg2MXyCZXWxHfiaOJ2n/9oADAMBAAIAAwAAABBzAIH/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EJA6LGI//8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAEP/aAAgBAgEBPxBkE6V3/8QAHhABAAIBBAMAAAAAAAAAAAAAAQARITFBodFRgbH/2gAIAQEAAT8QBp+2V1BU2CLXyBe7MJLKV4zxKGAWD1GQKbxJWT4l+rn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5265&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7f71aa9ffdccb202cab1042da93a22ae/1c72d/IMG_5265.jpg&quot;
+        srcset=&quot;/static/7f71aa9ffdccb202cab1042da93a22ae/a80bd/IMG_5265.jpg 148w,
+/static/7f71aa9ffdccb202cab1042da93a22ae/1c91a/IMG_5265.jpg 295w,
+/static/7f71aa9ffdccb202cab1042da93a22ae/1c72d/IMG_5265.jpg 590w,
+/static/7f71aa9ffdccb202cab1042da93a22ae/a8a14/IMG_5265.jpg 885w,
+/static/7f71aa9ffdccb202cab1042da93a22ae/a2510/IMG_5265.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;端子 と グランド端子 を指で触るとスイッチになるのは面白いです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ce9dcc267d9f5a39298b455d0fc104aa/a2510/IMG_5267.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFedDrlkmqClk7UyLh//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERAhMDEiD/2gAIAQEAAQUCh1IYpmZBcrNtNr8f/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAgEFAAAAAAAAAAAAAAAAABAxASAhQWL/2gAIAQEABj8CNLkw4oRZ/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARECExYYHw/9oACAEBAAE/IRS19phZNGndSoHHqAQYICueZfpp8HBj/9oADAMBAAIAAwAAABD/ADNy/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAEP/aAAgBAwEBPxAqwzRnf//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxCoqIiI/8QAHxABAAIBBAMBAAAAAAAAAAAAAQAhETFRcZFBodHh/9oACAEBAAE/EHeTuYErLQNTmLHU7lnIHGGTRG4BWNNuIzHCmx8lsIMX+I+1i1AKAG2VQbiZln//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5267&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ce9dcc267d9f5a39298b455d0fc104aa/1c72d/IMG_5267.jpg&quot;
+        srcset=&quot;/static/ce9dcc267d9f5a39298b455d0fc104aa/a80bd/IMG_5267.jpg 148w,
+/static/ce9dcc267d9f5a39298b455d0fc104aa/1c91a/IMG_5267.jpg 295w,
+/static/ce9dcc267d9f5a39298b455d0fc104aa/1c72d/IMG_5267.jpg 590w,
+/static/ce9dcc267d9f5a39298b455d0fc104aa/a8a14/IMG_5267.jpg 885w,
+/static/ce9dcc267d9f5a39298b455d0fc104aa/a2510/IMG_5267.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h4&gt;発表６&lt;/h4&gt;
+&lt;p&gt;micro:bit で色々な音を作っています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/295f5c804b32f71b90ce3607701729ed/a2510/IMG_5273.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABsO0RLBxNUnlYUX//xAAcEAEAAgMAAwAAAAAAAAAAAAABAAIDEBIREyH/2gAIAQEAAQUC4Zx84YZRW8pkQqeHu7PYmjX/xAAWEQEBAQAAAAAAAAAAAAAAAAAQARH/2gAIAQMBAT8Bph//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAbEAACAQUAAAAAAAAAAAAAAAABEBEAEiAhM//aAAgBAQAGPwJwtqLjFcwcP//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExEEFRccH/2gAIAQEAAT8hcupfKDaje5iDVfI7tlbnnoUEw6YXD2bhrgO5/9oADAMBAAIAAwAAABCTGbz/xAAYEQEBAAMAAAAAAAAAAAAAAAARAAEQIf/aAAgBAwEBPxBvJzoX/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBEEH/2gAIAQIBAT8QhaIdf//EAB4QAQEAAQQDAQAAAAAAAAAAAAERACExQXFRYZGx/9oACAEBAAE/ENwoukdzE6SecC0Xow/0AiNtL3pmj7PUfuFBqQDscGIyKLbUTpME4JEX7vlNldLlwAX3gPGIINh5z//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5273&quot;
+        title=&quot;&quot;
+        src=&quot;/static/295f5c804b32f71b90ce3607701729ed/1c72d/IMG_5273.jpg&quot;
+        srcset=&quot;/static/295f5c804b32f71b90ce3607701729ed/a80bd/IMG_5273.jpg 148w,
+/static/295f5c804b32f71b90ce3607701729ed/1c91a/IMG_5273.jpg 295w,
+/static/295f5c804b32f71b90ce3607701729ed/1c72d/IMG_5273.jpg 590w,
+/static/295f5c804b32f71b90ce3607701729ed/a8a14/IMG_5273.jpg 885w,
+/static/295f5c804b32f71b90ce3607701729ed/a2510/IMG_5273.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;micro:bit を振ると音が鳴ります。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a45fa26f240c02efe66b781aba38a9aa/a2510/IMG_5277.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAQL/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAD/9oADAMBAAIQAxAAAAHBdx8YVIrH1EiqSNf/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQISEyEDETH/2gAIAQEAAQUCozGxxFDcdnJ7kkZJDk2dssyzP//EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAIAQMBAT8B6qVkY//EABYRAQEBAAAAAAAAAAAAAAAAABARAf/aAAgBAgEBPwGYU//EABsQAAIBBQAAAAAAAAAAAAAAAAAxEAERICFB/9oACAEBAAY/AlU7Dubl4//EAB8QAQABBAEFAAAAAAAAAAAAAAEAESFBYVExgZHh8P/aAAgBAQABPyE9RAK2v5Ig3HxCGtzHEWIbwlNDEA6Idp9yIVWbpsm2f//aAAwDAQACAAMAAAAQxDrA/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMWH/2gAIAQMBAT8QpgxqnIhH/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxDksjTa/8QAIRABAAIBAgcBAAAAAAAAAAAAAQAhEVFxQYGRocHR8PH/2gAIAQEAAT8Q4nrYil8s21tUwoG6ITQKkVGatwtLgsQaebGsqahPEDK7Ew5LsEu9CH4ifUJ//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5277&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a45fa26f240c02efe66b781aba38a9aa/1c72d/IMG_5277.jpg&quot;
+        srcset=&quot;/static/a45fa26f240c02efe66b781aba38a9aa/a80bd/IMG_5277.jpg 148w,
+/static/a45fa26f240c02efe66b781aba38a9aa/1c91a/IMG_5277.jpg 295w,
+/static/a45fa26f240c02efe66b781aba38a9aa/1c72d/IMG_5277.jpg 590w,
+/static/a45fa26f240c02efe66b781aba38a9aa/a8a14/IMG_5277.jpg 885w,
+/static/a45fa26f240c02efe66b781aba38a9aa/a2510/IMG_5277.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;色々な音が鳴るようにエディターで編集をしています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/74bc19adf0320f39cd1c584b6b5e3995/a2510/IMG_5416.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEEBQID/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIQAxAAAAHNac1GStir/OYx7K4eQVIT/8QAHxAAAgECBwAAAAAAAAAAAAAAAQIAEyEDBBAREiAj/9oACAEBAAEFAuM20KAKt5mB6G6pMe71HlR4ST0//8QAFxEAAwEAAAAAAAAAAAAAAAAAABARAf/aAAgBAwEBPwGqGP8A/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQIBAT8BK//EAB8QAAECBgMAAAAAAAAAAAAAAAABEAIREiAhMkGBkf/aAAgBAQAGPwJ50wnHh0ytspspmz//xAAfEAACAgEEAwAAAAAAAAAAAAAAAREhMSBRcfFBYYH/2gAIAQEAAT8hEN0NDPa4E8IcBCymhCDco6NfDJ9HYHYDWWl6P//aAAwDAQACAAMAAAAQk8k9eB//xAAYEQEBAQEBAAAAAAAAAAAAAAABEQAQIf/aAAgBAwEBPxC30MNLhgmCE7//xAAZEQADAAMAAAAAAAAAAAAAAAAAAREQMVH/2gAIAQIBAT8Qjo0VD3n/xAAhEAEAAgEBCQAAAAAAAAAAAAABABExIRAgUWGBkbHB0f/aAAgBAQABPxC5mg5xL1MpcPaDhBi0+Yyq2GoOkBF0oqfIEMUChXWJQ6QzS4gBeOSuOwxCXw0Vbuf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5416&quot;
+        title=&quot;&quot;
+        src=&quot;/static/74bc19adf0320f39cd1c584b6b5e3995/1c72d/IMG_5416.jpg&quot;
+        srcset=&quot;/static/74bc19adf0320f39cd1c584b6b5e3995/a80bd/IMG_5416.jpg 148w,
+/static/74bc19adf0320f39cd1c584b6b5e3995/1c91a/IMG_5416.jpg 295w,
+/static/74bc19adf0320f39cd1c584b6b5e3995/1c72d/IMG_5416.jpg 590w,
+/static/74bc19adf0320f39cd1c584b6b5e3995/a8a14/IMG_5416.jpg 885w,
+/static/74bc19adf0320f39cd1c584b6b5e3995/a2510/IMG_5416.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;端子を使った拡張機能も試してみたいです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2bfcd040bea71f2ed5407d2a751eb1e7/a2510/IMG_5275.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABXl+t5onRElbLSr2MQP/EAB0QAAIBBAMAAAAAAAAAAAAAAAABEgIDERMgISL/2gAIAQEAAQUCiR7wKl5l6YrjNrNj4f/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEv/aAAgBAwEBPwEVt2SyX//EABcRAQEBAQAAAAAAAAAAAAAAAAARAQL/2gAIAQIBAT8BzlMVX//EABoQAAICAwAAAAAAAAAAAAAAAAAQMUERICH/2gAIAQEABj8CJU8MKitf/8QAGxABAQACAwEAAAAAAAAAAAAAAQAxYSFBkSD/2gAIAQEAAT8hJk6Tvc06CUtGNw579hYJp8Sjg+P/2gAMAwEAAgADAAAAEJggQf/EABcRAQEBAQAAAAAAAAAAAAAAAAARYVH/2gAIAQMBAT8QqRXGDB//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEQ/9oACAECAQE/EAReG7V//8QAHhABAAIBBAMAAAAAAAAAAAAAAQARQRAhMdFxgZH/2gAIAQEAAT8QzLBiIVwVVSh4fYYLWFKlReQYCPEMFJ2ypR0kzT3AN5rI+m+4c6//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5275&quot;
+        title=&quot;&quot;
+        src=&quot;/static/2bfcd040bea71f2ed5407d2a751eb1e7/1c72d/IMG_5275.jpg&quot;
+        srcset=&quot;/static/2bfcd040bea71f2ed5407d2a751eb1e7/a80bd/IMG_5275.jpg 148w,
+/static/2bfcd040bea71f2ed5407d2a751eb1e7/1c91a/IMG_5275.jpg 295w,
+/static/2bfcd040bea71f2ed5407d2a751eb1e7/1c72d/IMG_5275.jpg 590w,
+/static/2bfcd040bea71f2ed5407d2a751eb1e7/a8a14/IMG_5275.jpg 885w,
+/static/2bfcd040bea71f2ed5407d2a751eb1e7/a2510/IMG_5275.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;コンテスト&lt;/h3&gt;
+&lt;p&gt;それぞれ時間をかけて作った大作なので、いろいろなコンテストに挑戦してください。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/be0f29b1f87b6505dbd26400510f721e/a2510/IMG_5427.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABxvreJjByLTqSKB//xAAcEAACAgIDAAAAAAAAAAAAAAAAAgEDEiIQETH/2gAIAQEAAQUCxMRLnRVhJEZWjqCr3aDcXn//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAdEAACAQQDAAAAAAAAAAAAAAAAAREQICEyIlGR/9oACAEBAAY/AqQhro1WMUk4uDZ+2f/EAB0QAAMBAAEFAAAAAAAAAAAAAAABETEhIEFRcdH/2gAIAQEAAT8hpP4JpRAep6O5LbzgyrkZhvKutHyXrYOt6F//2gAMAwEAAgADAAAAEM/+/wD/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAwEBPxBj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITFBUbH/2gAIAQEAAT8QaNps9WRyJh2DAnmYwSE3XpR+z63+Pi7FLvvxiKl3h7Edia21dy3vTOpkKzJbHs//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5427&quot;
+        title=&quot;&quot;
+        src=&quot;/static/be0f29b1f87b6505dbd26400510f721e/1c72d/IMG_5427.jpg&quot;
+        srcset=&quot;/static/be0f29b1f87b6505dbd26400510f721e/a80bd/IMG_5427.jpg 148w,
+/static/be0f29b1f87b6505dbd26400510f721e/1c91a/IMG_5427.jpg 295w,
+/static/be0f29b1f87b6505dbd26400510f721e/1c72d/IMG_5427.jpg 590w,
+/static/be0f29b1f87b6505dbd26400510f721e/a8a14/IMG_5427.jpg 885w,
+/static/be0f29b1f87b6505dbd26400510f721e/a2510/IMG_5427.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;副賞の micro:bit と CoderDojo のメダルを手渡しています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/64d31d32863145e1b5b5efc4a1043354/a2510/IMG_5421.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAZd5Y2pHnRYWhnWf/8QAHBABAAICAwEAAAAAAAAAAAAAAQACAxEQEhQy/9oACAEBAAEFAkmkj3X0Ujmt2MmwrHdZ6M3L9f/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwFw/8QAHRAAAgICAwEAAAAAAAAAAAAAAAECIRAxEjJBYf/aAAgBAQAGPwLWbdEXH2JdC+C4vR3yz//EAB4QAQABBAIDAAAAAAAAAAAAAAEAESExUUFxEGGB/9oACAEBAAE/IbJg8wQIPq0NQ1YZOwynwwTnK0zM0yyjdBxna+HhuS2juf/aAAwDAQACAAMAAAAQZ+UM/8QAFxEBAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPxBsW//EABcRAAMBAAAAAAAAAAAAAAAAAAAQESH/2gAIAQIBAT8Qhjf/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMVFh0YGhsf/aAAgBAQABPxDhVDa0fWN6PKEjM370NyY6cYp2dY28RButX4ciMPTT68YMQFgBXHs5BhsusnQ0PLb8wUMAAlMc2h6Gf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5421&quot;
+        title=&quot;&quot;
+        src=&quot;/static/64d31d32863145e1b5b5efc4a1043354/1c72d/IMG_5421.jpg&quot;
+        srcset=&quot;/static/64d31d32863145e1b5b5efc4a1043354/a80bd/IMG_5421.jpg 148w,
+/static/64d31d32863145e1b5b5efc4a1043354/1c91a/IMG_5421.jpg 295w,
+/static/64d31d32863145e1b5b5efc4a1043354/1c72d/IMG_5421.jpg 590w,
+/static/64d31d32863145e1b5b5efc4a1043354/a8a14/IMG_5421.jpg 885w,
+/static/64d31d32863145e1b5b5efc4a1043354/a2510/IMG_5421.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;プログラミング 部門 おめでとう！&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7cb55c84a0a69c2cdf2c2d7585a8eb1c/a2510/IMG_5285.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAa+XTytAqYkUIGo0z//EAB0QAAEEAgMAAAAAAAAAAAAAAAIAAQMSEzMEISL/2gAIAQEAAQUCaP3QSfGylIRUJtYi7lZsfHexVU2mHYv/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BI//EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwEr/8QAHRAAAgICAwEAAAAAAAAAAAAAAAECERAxIUFxcv/aAAgBAQAGPwLl8UXGVr02XLVFUkasbG+1iXhL5WP/xAAeEAEAAgIBBQAAAAAAAAAAAAABABEhMRBRcYHR8P/aAAgBAQABPyHEKrHDDxDIq9oLssK6yxDXYQ75dkvY0XA0gb1KKtueKFUfJCf/2gAMAwEAAgADAAAAEDT5zP/EABkRAAMAAwAAAAAAAAAAAAAAAAABERAxQf/aAAgBAwEBPxCDa7O4/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEQETEh/9oACAECAQE/ELFxgsj/xAAcEAEBAQEAAwEBAAAAAAAAAAABEQAhMUGhUYH/2gAIAQEAAT8QWkRFAETv3BlT82LnlqvetBqix+oTM81ccYMee+Y5E3LGvg8kZjeIc8heessDKqrk/wBGAohT4yZv/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5285&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7cb55c84a0a69c2cdf2c2d7585a8eb1c/1c72d/IMG_5285.jpg&quot;
+        srcset=&quot;/static/7cb55c84a0a69c2cdf2c2d7585a8eb1c/a80bd/IMG_5285.jpg 148w,
+/static/7cb55c84a0a69c2cdf2c2d7585a8eb1c/1c91a/IMG_5285.jpg 295w,
+/static/7cb55c84a0a69c2cdf2c2d7585a8eb1c/1c72d/IMG_5285.jpg 590w,
+/static/7cb55c84a0a69c2cdf2c2d7585a8eb1c/a8a14/IMG_5285.jpg 885w,
+/static/7cb55c84a0a69c2cdf2c2d7585a8eb1c/a2510/IMG_5285.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;モデリング 部門 おめでとう！&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f8d24672554e48714fa2e719619bb872/a2510/IMG_5288.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAbq+bLUuaMU3yKLlf//EAB4QAAIBAwUAAAAAAAAAAAAAAAECAwAEEBESEyEz/9oACAEBAAEFAusArUrCJbJwV0qdzxWzbUIJqbyjx//EABYRAAMAAAAAAAAAAAAAAAAAAAAQIf/aAAgBAwEBPwEr/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAh/9oACAECAQE/ASP/xAAeEAABAwQDAAAAAAAAAAAAAAACABEhARBBUXFykf/aAAgBAQAGPwJpe0iqk2FUdWJ5hEw52s+ouEXa3//EAB4QAQACAgMAAwAAAAAAAAAAAAEAESFxEDFBYZHw/9oACAEBAAE/IS5hER6H6gDIu6huF4AyhOVZqNnqIrg8GPZVkPlCXnXDv20cf//aAAwDAQACAAMAAAAQyAY8/8QAFxEBAAMAAAAAAAAAAAAAAAAAABARQf/aAAgBAwEBPxCGqf/EABcRAQADAAAAAAAAAAAAAAAAAAAQEUH/2gAIAQIBAT8Qhi3/xAAdEAEAAwACAwEAAAAAAAAAAAABABExIUFRYYGh/9oACAEBAAE/ECMdpAsqWolNqKvdty9VUfJt4AVSVzmqtV5lg03xESsjRh9w1/uNC2B3RCivBihP041+0A4n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5288&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f8d24672554e48714fa2e719619bb872/1c72d/IMG_5288.jpg&quot;
+        srcset=&quot;/static/f8d24672554e48714fa2e719619bb872/a80bd/IMG_5288.jpg 148w,
+/static/f8d24672554e48714fa2e719619bb872/1c91a/IMG_5288.jpg 295w,
+/static/f8d24672554e48714fa2e719619bb872/1c72d/IMG_5288.jpg 590w,
+/static/f8d24672554e48714fa2e719619bb872/a8a14/IMG_5288.jpg 885w,
+/static/f8d24672554e48714fa2e719619bb872/a2510/IMG_5288.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;電子工作 部門 おめでとう！&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/62bb1413066ecc8c4f9b5be0da08be85/a2510/IMG_5290.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAbVbky3CxMS1Jqg6D//EAB4QAAICAgIDAAAAAAAAAAAAAAECAAMREwQSITEy/9oACAEBAAEFAsGVk2DLichyq0WFX2R/CUHYeoj/ABT7n//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABURAQEAAAAAAAAAAAAAAAAAABBB/9oACAECAQE/ASH/xAAfEAACAAUFAAAAAAAAAAAAAAAAAQIQEjFxESEyUWH/2gAIAQEABj8Ct6dFxUXZRpszixtDqbizKLA8KX//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQTFhkfD/2gAIAQEAAT8hKURQPDMaNFIAooRd51YzCVhc1Upbo7Id8DUXAQ0nRF7JgJ9kuf/aAAwDAQACAAMAAAAQT+/y/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAQEVH/2gAIAQMBAT8QmPYrtf/EABgRAAMBAQAAAAAAAAAAAAAAAAABERBh/9oACAECAQE/EIy8ElTz/8QAHhABAQADAAIDAQAAAAAAAAAAAREAITFBYVGBofH/2gAIAQEAAT8QDuhmyngmW8EEl6W3ADw4DiwXZyg6w+sf1IKYy3NYJxYXXjeASjURs94t8CYS/wAz18TrxvzAEAPDmvnP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5290&quot;
+        title=&quot;&quot;
+        src=&quot;/static/62bb1413066ecc8c4f9b5be0da08be85/1c72d/IMG_5290.jpg&quot;
+        srcset=&quot;/static/62bb1413066ecc8c4f9b5be0da08be85/a80bd/IMG_5290.jpg 148w,
+/static/62bb1413066ecc8c4f9b5be0da08be85/1c91a/IMG_5290.jpg 295w,
+/static/62bb1413066ecc8c4f9b5be0da08be85/1c72d/IMG_5290.jpg 590w,
+/static/62bb1413066ecc8c4f9b5be0da08be85/a8a14/IMG_5290.jpg 885w,
+/static/62bb1413066ecc8c4f9b5be0da08be85/a2510/IMG_5290.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;プレゼント大会&lt;/h3&gt;
+&lt;p&gt;プレゼントはスピードくじ方式で子供たちが選びます。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/19faf0b1c2a571686157f23d2f0b5651/a2510/IMG_5195.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAbMi0KOgUvBgiOqYA//EACAQAAIBAgcBAAAAAAAAAAAAAAECAwAhBBAREhMiI0H/2gAIAQEAAQUCjTpJYNhw5jtFqor5t8YyoHMlM7Ghl//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB4QAAEDBQEBAAAAAAAAAAAAAAABETECECEicUJh/9oACAEBAAY/AqNlgwjjqiv8KeEmCPJuydtK3//EABwQAQACAwEBAQAAAAAAAAAAAAEAESExUXFB0f/aAAgBAQABPyG5kE6iQzLx9lU1b6jvvMS5p5qBYWVKYgv8RIrgxXgV8JYDV7CMArU//9oADAMBAAIAAwAAABC70bL/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxAp/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/ELiIj//EABsQAQEBAQEBAQEAAAAAAAAAAAERACExUaFB/9oACAEBAAE/EJWZGceZ6JjUgZ7zR+IpwX3GeoVrP5hAFxlRrEWcYt/d6IRAh1yKAe0rfhjhGeMD91sw4FTCFLheG//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5195&quot;
+        title=&quot;&quot;
+        src=&quot;/static/19faf0b1c2a571686157f23d2f0b5651/1c72d/IMG_5195.jpg&quot;
+        srcset=&quot;/static/19faf0b1c2a571686157f23d2f0b5651/a80bd/IMG_5195.jpg 148w,
+/static/19faf0b1c2a571686157f23d2f0b5651/1c91a/IMG_5195.jpg 295w,
+/static/19faf0b1c2a571686157f23d2f0b5651/1c72d/IMG_5195.jpg 590w,
+/static/19faf0b1c2a571686157f23d2f0b5651/a8a14/IMG_5195.jpg 885w,
+/static/19faf0b1c2a571686157f23d2f0b5651/a2510/IMG_5195.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://battlecats.club/&quot;&gt;にゃんこ大戦争&lt;/a&gt; の パーカーは全員分あります。&lt;a href=&quot;https://www.ponos.jp/&quot;&gt;ポノス様&lt;/a&gt; ご支援ありがとうございます。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/70dca8ffd240c2ccbdcd7211799d678a/a2510/IMG_5422.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABxumGO4gl1NYMQv8A/8QAHBABAAEFAQEAAAAAAAAAAAAAAREAAgMQEhND/9oACAEBAAEFAuaCKVVy2R7RZblmhh4NfTX/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAeEAABAwQDAAAAAAAAAAAAAAABABEhAgMQEiBRcf/aAAgBAQAGPwLNRCtkkO8o+wte+X//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFRYRD/2gAIAQEAAT8hMpaEdS7LnyKqF6iEFmPkSxwdHEG1iVZQTYXivv8A/9oADAMBAAIAAwAAABB3PMD/xAAXEQADAQAAAAAAAAAAAAAAAAAAASEQ/9oACAEDAQE/ECiqz//EABcRAAMBAAAAAAAAAAAAAAAAAAABIRD/2gAIAQIBAT8QIOPP/8QAHhABAAMAAgMBAQAAAAAAAAAAAQARITFRQWGhgZH/2gAIAQEAAT8QS5W9RDZaPFh/YxvrpnyImICho1wynyHkW5E/fktoKteqmFBwsfF9RW0PZAAFAQNQqo3xsHYuz//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5422&quot;
+        title=&quot;&quot;
+        src=&quot;/static/70dca8ffd240c2ccbdcd7211799d678a/1c72d/IMG_5422.jpg&quot;
+        srcset=&quot;/static/70dca8ffd240c2ccbdcd7211799d678a/a80bd/IMG_5422.jpg 148w,
+/static/70dca8ffd240c2ccbdcd7211799d678a/1c91a/IMG_5422.jpg 295w,
+/static/70dca8ffd240c2ccbdcd7211799d678a/1c72d/IMG_5422.jpg 590w,
+/static/70dca8ffd240c2ccbdcd7211799d678a/a8a14/IMG_5422.jpg 885w,
+/static/70dca8ffd240c2ccbdcd7211799d678a/a2510/IMG_5422.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;パーカーを早速着てくれて、気に入ってくれているようです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/83701c4bf4d43722b970a3425531ffa8/a2510/IMG_5283.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwABAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAfTwrY0EsDo4qVJ//8QAHRAAAgIBBQAAAAAAAAAAAAAAAAECEjIQERMiMf/aAAgBAQABBQKrRHuqsjOVsFyI8N20PCGn/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAExEBEgMkFx/9oACAEBAAY/AoNWQhKxB3B+Dp//xAAgEAEAAgEDBQEAAAAAAAAAAAABABFRECExQWGRobHB/9oACAEBAAE/IaGGZvEHfrAf0jEhu1cRSzLM7PhBtc5h50bI/c+Gn//aAAwDAQACAAMAAAAQPOg//8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBEEH/2gAIAQMBAT8QFI8r/8QAFxEAAwEAAAAAAAAAAAAAAAAAABARQf/aAAgBAgEBPxApNX//xAAeEAEAAgICAwEAAAAAAAAAAAABABEhMVFxYZGxgf/aAAgBAQABPxBQE5XYtPUSgpSiGOYBXvZgGL4EahmxG2E77hTn97R6DXPUbW62fMUvU3i7XyM2YTuf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5283&quot;
+        title=&quot;&quot;
+        src=&quot;/static/83701c4bf4d43722b970a3425531ffa8/1c72d/IMG_5283.jpg&quot;
+        srcset=&quot;/static/83701c4bf4d43722b970a3425531ffa8/a80bd/IMG_5283.jpg 148w,
+/static/83701c4bf4d43722b970a3425531ffa8/1c91a/IMG_5283.jpg 295w,
+/static/83701c4bf4d43722b970a3425531ffa8/1c72d/IMG_5283.jpg 590w,
+/static/83701c4bf4d43722b970a3425531ffa8/a8a14/IMG_5283.jpg 885w,
+/static/83701c4bf4d43722b970a3425531ffa8/a2510/IMG_5283.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;クロージング&lt;/h3&gt;
+&lt;p&gt;来年の干支が卯なので、招きうさぎ のマスコットを展示していました。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/de352282229fd8d27118236c66487385/a2510/IMG_5205.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdq5KY6oBnriwcYP/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIAEQMQBBIhIv/aAAgBAQABBQK4GuezO1Jx2+hOgcDGEgvQ1//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABgQAAMBAQAAAAAAAAAAAAAAAAEQIQAg/9oACAEBAAY/AtCGa5z/AP/EABsQAAIDAQEBAAAAAAAAAAAAAAABESFBMXGh/9oACAEBAAE/IWy34bwekchxYmBSUDUOwucKBYGRGyO30R//2gAMAwEAAgADAAAAEPvswv/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB4QAQADAAICAwAAAAAAAAAAAAEAESExQVGBwdHh/9oACAEBAAE/EC7r7i370P2Cz4X7l+Xkl+Ih4C1edlh2akdnKLILbm3KiEMoxOzGaqVe5wn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5205&quot;
+        title=&quot;&quot;
+        src=&quot;/static/de352282229fd8d27118236c66487385/1c72d/IMG_5205.jpg&quot;
+        srcset=&quot;/static/de352282229fd8d27118236c66487385/a80bd/IMG_5205.jpg 148w,
+/static/de352282229fd8d27118236c66487385/1c91a/IMG_5205.jpg 295w,
+/static/de352282229fd8d27118236c66487385/1c72d/IMG_5205.jpg 590w,
+/static/de352282229fd8d27118236c66487385/a8a14/IMG_5205.jpg 885w,
+/static/de352282229fd8d27118236c66487385/a2510/IMG_5205.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;会場からの告知です。プレゼントにあった さやりん のグッズが作れます。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ed2a00d7181e5afe7fbb0fd0ea49448f/a2510/IMG_5186.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAdzIxc8YGx4lswgX/8QAHhAAAQMEAwAAAAAAAAAAAAAAAQADEgIEETIhIkH/2gAIAQEAAQUCAphEK4GHMiHlxuV2i7sDxMpw5q//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAdEAACAQQDAAAAAAAAAAAAAAAAAQIQIXGRIjFR/9oACAEBAAY/AlZaOlot4ROIsEcVVf/EAB0QAQACAwADAQAAAAAAAAAAAAEAESFBUTFhgaH/2gAIAQEAAT8h3OojLCGBXpCoeE3tfLmx5pFkNIij3UWgDK+TUaiysRvlyI7/ACJY8n//2gAMAwEAAgADAAAAELQkPv/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EIM//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHRABAQADAAMBAQAAAAAAAAAAAREAITFBUXFh0f/aAAgBAQABPxAzbNmFqZDb5uAABQwQ84RNJv8A2GFrWapC4FaOqcu8kyDqcHWe3jTTz499Yjsp0/XH2jAcesC0T4P5g5awcz//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_5186&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ed2a00d7181e5afe7fbb0fd0ea49448f/1c72d/IMG_5186.jpg&quot;
+        srcset=&quot;/static/ed2a00d7181e5afe7fbb0fd0ea49448f/a80bd/IMG_5186.jpg 148w,
+/static/ed2a00d7181e5afe7fbb0fd0ea49448f/1c91a/IMG_5186.jpg 295w,
+/static/ed2a00d7181e5afe7fbb0fd0ea49448f/1c72d/IMG_5186.jpg 590w,
+/static/ed2a00d7181e5afe7fbb0fd0ea49448f/a8a14/IMG_5186.jpg 885w,
+/static/ed2a00d7181e5afe7fbb0fd0ea49448f/a2510/IMG_5186.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[CoderDojo 61回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 61 回目 @大阪狭山 名の メンター と名の ニンジャ が集まりました。 会場は「UP っぷ（子育て支援・世代間交流センター）」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 10:00 - 10:10 (1…]]></description><link>https://coderdojo-hommachi.github.io/blog/2022-11-20-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io/blog/2022-11-20-report1/</guid><pubDate>Sun, 20 Nov 2022 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-osakasayama.doorkeeper.jp/events/146042&quot;&gt;子ども向けプログラミング道場：コーダー道場 61 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;3&lt;/code&gt;名の &lt;strong&gt;メンター&lt;/strong&gt; と&lt;code class=&quot;language-text&quot;&gt;5&lt;/code&gt;名の &lt;strong&gt;ニンジャ&lt;/strong&gt; が集まりました。&lt;/p&gt;
 &lt;p&gt;会場は「&lt;a href=&quot;http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html&quot;&gt;UP っぷ（子育て支援・世代間交流センター）&lt;/a&gt;」にて開催させていただきました。&lt;/p&gt;
 &lt;h2&gt;当日のスケジュール ⏰&lt;/h2&gt;
