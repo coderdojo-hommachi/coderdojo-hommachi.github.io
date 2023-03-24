@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 23 Mar 2023 20:51:15 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 64回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 64 回目 @大阪狭山 名の メンター と名の ニンジャ が集まりました。 会場は「UP っぷ（子育て支援・世代間交流センター）」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 10:00 - 10:10 (1…]]></description><link>https://coderdojo-hommachi.github.io/blog/2023-03-19-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io/blog/2023-03-19-report1/</guid><pubDate>Sun, 19 Mar 2023 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-osakasayama.doorkeeper.jp/events/150112&quot;&gt;子ども向けプログラミング道場：コーダー道場 64 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 24 Mar 2023 03:23:47 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 64回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 64 回目 @大阪狭山 名の メンター と名の ニンジャ が集まりました。 会場は「UP っぷ（子育て支援・世代間交流センター）」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 10:00 - 10:10 (1…]]></description><link>https://coderdojo-hommachi.github.io/blog/2023-03-19-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io/blog/2023-03-19-report1/</guid><pubDate>Sun, 19 Mar 2023 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-osakasayama.doorkeeper.jp/events/150112&quot;&gt;子ども向けプログラミング道場：コーダー道場 64 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;4&lt;/code&gt;名の &lt;strong&gt;メンター&lt;/strong&gt; と&lt;code class=&quot;language-text&quot;&gt;7&lt;/code&gt;名の &lt;strong&gt;ニンジャ&lt;/strong&gt; が集まりました。&lt;/p&gt;
 &lt;p&gt;会場は「&lt;a href=&quot;http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html&quot;&gt;UP っぷ（子育て支援・世代間交流センター）&lt;/a&gt;」にて開催させていただきました。&lt;/p&gt;
 &lt;h2&gt;当日のスケジュール ⏰&lt;/h2&gt;
@@ -73,7 +73,7 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;h3&gt;オープニング&lt;/h3&gt;
-&lt;p&gt;マスクは任意になりましたが、みんなマスクを着用しています。&lt;/p&gt;
+&lt;p&gt;わくフェスからの初参加の方が 2 組です。（マスクは任意になりましたが、みんなマスクを着用しています。）&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -109,7 +109,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;CoderDojo へようこそのスライドは定期的に説明しています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coderdojo.jp/&quot;&gt;CoderDojo へようこそ&lt;/a&gt; のスライドは定期的にオープニングで説明しています。&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -182,7 +182,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;ロボホンの ロブリック の体験と、街のゆるキャラの さやりんを歩かせよう の Scrach の体験で出展しています。&lt;/p&gt;
+&lt;p&gt;ロボホンの &lt;a href=&quot;https://robohon.com/apps/robrick.php&quot;&gt;ロブリック&lt;/a&gt; の体験と、街のゆるキャラの &lt;em&gt;さやりんを歩かせよう&lt;/em&gt; の Scratch の体験で出展しています。&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -255,7 +255,7 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;h3&gt;プログラミング&lt;/h3&gt;
-&lt;p&gt;わくフェス で興味を持ってもらえて、 &lt;a href=&quot;https://resources.scratch.mit.edu/www/cards/ja/scratch-cards-all.pdf&quot;&gt;Scratch カード&lt;/a&gt; でプログラミングをしています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://resources.scratch.mit.edu/www/cards/ja/scratch-cards-all.pdf&quot;&gt;Scratch カード&lt;/a&gt; でプログラミングをしています。（姉妹で楽しんでいます。）&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -291,7 +291,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;わくフェス で興味を持ってもらえて、 プログラミングでポケモンをうごかしてみよう を体験しています。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;プログラミングでポケモンをうごかしてみよう&lt;/em&gt; を体験しています。（イーブイが使えて喜んでいました。女の子たちに人気があります。）&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -320,6 +320,78 @@
 /static/d9b5eaf815e7d82fcfb2ca85bc2a1356/1c72d/IMG_6070.jpg 590w,
 /static/d9b5eaf815e7d82fcfb2ca85bc2a1356/a8a14/IMG_6070.jpg 885w,
 /static/d9b5eaf815e7d82fcfb2ca85bc2a1356/a2510/IMG_6070.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;高校生のユースメンターが初参加の子をサポートしています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e7a8812388ebdd906c4a0de0d7f78c2a/a2510/IMG_6071.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABnqygsQjBRO5crSSOg6B//8QAHRAAAgEEAwAAAAAAAAAAAAAAAQIDABASIREiQf/aAAgBAQABBQKhYDukil1kjKl+W3lGwRXiOYGq9t//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AV//xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPwEr/8QAIBAAAQIGAwEAAAAAAAAAAAAAAQACEBEhMUFhICIygf/aAAgBAQAGPwKJBsntdhegNLtVO3pSLZ/Ea5hbh//EAB8QAQADAAIBBQAAAAAAAAAAAAEAESEQMXFBUWGRof/aAAgBAQABPyFC6G/EBe4e9cBhZxv1jQUNb+IcV/4ly92NdfUDA0QpAV96hMGx5kSHbvcOP//aAAwDAQACAAMAAAAQnDAx88//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEg/9oACAEDAQE/EKSFx//EABgRAQEAAwAAAAAAAAAAAAAAAAERECAx/9oACAECAQE/EESjcc0//8QAIBABAQACAgEFAQAAAAAAAAAAAREAITFBYVGBobHR4f/aAAgBAQABPxA7CTv+sWLewVMFNFmCRIDRTteslIobBDPjGejlfoxlog0ox5K+8AU9u0bePGILwex74GVEm3W8KS0G31yTNjwZzCq1cU4w2Z//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6071&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e7a8812388ebdd906c4a0de0d7f78c2a/1c72d/IMG_6071.jpg&quot;
+        srcset=&quot;/static/e7a8812388ebdd906c4a0de0d7f78c2a/a80bd/IMG_6071.jpg 148w,
+/static/e7a8812388ebdd906c4a0de0d7f78c2a/1c91a/IMG_6071.jpg 295w,
+/static/e7a8812388ebdd906c4a0de0d7f78c2a/1c72d/IMG_6071.jpg 590w,
+/static/e7a8812388ebdd906c4a0de0d7f78c2a/a8a14/IMG_6071.jpg 885w,
+/static/e7a8812388ebdd906c4a0de0d7f78c2a/a2510/IMG_6071.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;全員が発表がなくてもプログラミング中の画面を見に行って、何をしているか教えてもらって賑やかです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c7ae87a561695e72f2d582adf4882e50/a2510/IMG_6072.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAax0vHBrHmV1wsLEyagA/8QAHRAAAgEFAQEAAAAAAAAAAAAAAQIQAAMSEyIhMf/aAAgBAQABBQL6AIbFBvtCkxdHBNavV5DEMYtnmP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BX//EAB4QAAICAQUBAAAAAAAAAAAAAAABETEhAhASIFGR/9oACAEBAAY/AkoW/KylDoWr0x8LwRLJSjt//8QAHBABAAIDAQEBAAAAAAAAAAAAAQARITFBEIGR/9oACAEBAAE/IVqLjptljuvGBWP2IeRlmChaXEymHpagwji4TXB9mDs8hjxn7Yef/9oADAMBAAIAAwAAABCvMQGH3//EABcRAAMBAAAAAAAAAAAAAAAAAAEQICH/2gAIAQMBAT8Q2Av/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EF//xAAdEAEAAgMBAQEBAAAAAAAAAAABABEhMVFBgWHw/9oACAEBAAE/ECFXgP0mNSOtpKeTRQchRJYK7Po3v81DqStHH2MHeAD2rhAEhMgwgnBWrS2TMs/1QQp7CNtu77NCLmf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6072&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c7ae87a561695e72f2d582adf4882e50/1c72d/IMG_6072.jpg&quot;
+        srcset=&quot;/static/c7ae87a561695e72f2d582adf4882e50/a80bd/IMG_6072.jpg 148w,
+/static/c7ae87a561695e72f2d582adf4882e50/1c91a/IMG_6072.jpg 295w,
+/static/c7ae87a561695e72f2d582adf4882e50/1c72d/IMG_6072.jpg 590w,
+/static/c7ae87a561695e72f2d582adf4882e50/a8a14/IMG_6072.jpg 885w,
+/static/c7ae87a561695e72f2d582adf4882e50/a2510/IMG_6072.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -364,7 +436,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;モブプロで次回から作り始める予定です。（説明書を読む人、パーツを外す人、パーツを組む人で複数人で参加できます。）&lt;/p&gt;
+&lt;p&gt;モブプロで次回から作り始める予定です。（説明書を読む人、パーツを外す人、パーツを組む人の複数人で参加できます。）&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -401,7 +473,7 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;h3&gt;作品紹介&lt;/h3&gt;
-&lt;p&gt;Unity で森で焚き火ができる世界を作っているそうです。&lt;/p&gt;
+&lt;p&gt;Unity で森で焚き火ができる世界を作っています。（図書館で本を借りてきたそうです。新刊がすぐにでるので図書館が充実してると嬉しいです。）&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -547,7 +619,7 @@
     &lt;/p&gt;
 &lt;h3&gt;発表&lt;/h3&gt;
 &lt;h4&gt;発表１&lt;/h4&gt;
-&lt;p&gt;Blender の人物のモデリングです。&lt;/p&gt;
+&lt;p&gt;Blender の人物のモデリングです。髪の毛の作り方を実演です。&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -583,7 +655,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;髪の毛を一本ずつ設置しています。毛先まで再現しています。&lt;/p&gt;
+&lt;p&gt;カーブをつけたり、頂点を膨らませたり、先を細くする方法です。&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -619,7 +691,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;今日は前髪まで出来て、後ろ髪は未完成です。&lt;/p&gt;
+&lt;p&gt;コピーとペーストで髪の毛を増やして、調整を繰り返します。&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -656,7 +728,7 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;h4&gt;発表２&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://makezine.jp/event/mfk2023/&quot;&gt;Maker Faire Kyoto 2023&lt;/a&gt; の紹介です。4 月の 29 日と 30 日が開催されます。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://makezine.jp/event/mfk2023/&quot;&gt;Maker Faire Kyoto 2023&lt;/a&gt; の紹介です。4 月 29 日と 4 月 30 日に開催されます。&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
