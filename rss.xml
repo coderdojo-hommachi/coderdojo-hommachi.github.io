@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 04 May 2023 23:39:02 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 65回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 64 回目 @大阪狭山 名の メンター と名の ニンジャ が集まりました。 会場は「UP っぷ（子育て支援・世代間交流センター）」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 9:30 - 9:40 (10 min…]]></description><link>https://coderdojo-hommachi.github.io/blog/2023-04-16-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io/blog/2023-04-16-report1/</guid><pubDate>Sun, 16 Apr 2023 09:30:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-osakasayama.doorkeeper.jp/events/154232&quot;&gt;子ども向けプログラミング道場：コーダー道場 64 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo Osakasayama / Hommachi]]></title><description><![CDATA[CoderDojo 大阪狭山 / 本町]]></description><link>https://coderdojo-hommachi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 04 May 2023 23:46:08 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 65回目@大阪狭山]]></title><description><![CDATA[子ども向けプログラミング道場：コーダー道場 64 回目 @大阪狭山 名の メンター と名の ニンジャ が集まりました。 会場は「UP っぷ（子育て支援・世代間交流センター）」にて開催させていただきました。 当日のスケジュール ⏰ 時間 内容 9:30 - 9:40 (10 min…]]></description><link>https://coderdojo-hommachi.github.io/blog/2023-04-16-report1/</link><guid isPermaLink="false">https://coderdojo-hommachi.github.io/blog/2023-04-16-report1/</guid><pubDate>Sun, 16 Apr 2023 09:30:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojo-osakasayama.doorkeeper.jp/events/154232&quot;&gt;子ども向けプログラミング道場：コーダー道場 64 回目 @大阪狭山&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;4&lt;/code&gt;名の &lt;strong&gt;メンター&lt;/strong&gt; と&lt;code class=&quot;language-text&quot;&gt;7&lt;/code&gt;名の &lt;strong&gt;ニンジャ&lt;/strong&gt; が集まりました。&lt;/p&gt;
 &lt;p&gt;会場は「&lt;a href=&quot;http://www.city.osakasayama.osaka.jp/kosodate_kyoiku/kosodate/upp_kosodatesiensedaikankouryuusenta1/index.html&quot;&gt;UP っぷ（子育て支援・世代間交流センター）&lt;/a&gt;」にて開催させていただきました。&lt;/p&gt;
 &lt;h2&gt;当日のスケジュール ⏰&lt;/h2&gt;
@@ -73,7 +73,7 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;h3&gt;オープニング&lt;/h3&gt;
-&lt;p&gt;開始時間を 9 時 30 分に変更して、終了時間が 12 時に終ります。(お昼前に終われる方がよさそうです。)&lt;/p&gt;
+&lt;p&gt;開始時間を &lt;code class=&quot;language-text&quot;&gt;9時30分&lt;/code&gt; に変更して、終了時間が &lt;code class=&quot;language-text&quot;&gt;12時&lt;/code&gt; に終ります。(お昼前に終われる方がよさそうです。)&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -145,7 +145,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://makezine.jp/event/mfk2023/&quot;&gt;メイカーフェア京都 2023&lt;/a&gt;の招待状を子供達に渡します。（１枚で 2 名まで入場できます。）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://makezine.jp/event/mfk2023/&quot;&gt;メイカーフェア京都 2023&lt;/a&gt;の招待状を子供達に渡します。（１枚で &lt;code class=&quot;language-text&quot;&gt;2名&lt;/code&gt; まで入場できます。）&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -362,6 +362,115 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
+&lt;p&gt;Minecraft カップ に興味があるそうです。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3d3758d0c05e57b67696f5d8036e95df/a2510/IMG_6733.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB7mlwKEEv1qtDSfOTQ9dRZgGVf//EABwQAAICAwEBAAAAAAAAAAAAAAECACIREjEhQf/aAAgBAQABBQLsarbiLmMNgVAgUYbvpg4DmM1vgNmNv//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABcRAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8Bwwcc/8QAGRAAAwADAAAAAAAAAAAAAAAAAAEgEDEy/9oACAEBAAY/AsblHNM//8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERITFBYf/aAAgBAQABPyGJYxaVxDTF4+HXfS2muejaOsUOIV7ourkeDlN1TEWIOD//2gAMAwEAAgADAAAAELjbwwfv/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAQEUH/2gAIAQMBAT8QXs0rW//EABkRAQACAwAAAAAAAAAAAAAAAAEAEBFBUf/aAAgBAgEBPxA0oCYO3//EAB0QAQEBAQACAwEAAAAAAAAAAAERACExUUFhccH/2gAIAQEAAT8QRpcAH8xBNgS/M0QSCD+rlCpKnM6FewecnZD596C7Q8m5BqYTyYB1fEobr+8lEB+3EAtOe8lReTOQYT+5lm9d/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6733&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3d3758d0c05e57b67696f5d8036e95df/1c72d/IMG_6733.jpg&quot;
+        srcset=&quot;/static/3d3758d0c05e57b67696f5d8036e95df/a80bd/IMG_6733.jpg 148w,
+/static/3d3758d0c05e57b67696f5d8036e95df/1c91a/IMG_6733.jpg 295w,
+/static/3d3758d0c05e57b67696f5d8036e95df/1c72d/IMG_6733.jpg 590w,
+/static/3d3758d0c05e57b67696f5d8036e95df/a8a14/IMG_6733.jpg 885w,
+/static/3d3758d0c05e57b67696f5d8036e95df/a2510/IMG_6733.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Minecraft カップ&lt;/h3&gt;
+&lt;p&gt;この日は &lt;code class=&quot;language-text&quot;&gt;11時&lt;/code&gt; から &lt;a href=&quot;https://minecraftcup.com/&quot;&gt;Minecraft カップ&lt;/a&gt; の&lt;a href=&quot;https://www.youtube.com/watch?v=WbVrlx_LZ2g&quot;&gt;オープニングイベント&lt;/a&gt;が開催されるのでみんなで観ます。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/88440664847c4cfe032e54212effd6b9/a2510/IMG_6328.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAEDBAUC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAGB2+pmgWzLleG27ZiB/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERAhIg/9oACAEBAAEFAqilRnKHlTn3/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIRICH/2gAIAQMBAT8BLbFP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGRAAAQUAAAAAAAAAAAAAAAAAAQAQITAx/9oACAEBAAY/AnkLBR//xAAbEAACAwADAAAAAAAAAAAAAAAAAREhUSBhkf/aAAgBAQABPyFaEdOwsQDLpAoZ4VpWlcP/2gAMAwEAAgADAAAAEDf4gv/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEh/9oACAEDAQE/EGLIqf/EABYRAQEBAAAAAAAAAAAAAAAAAAERIP/aAAgBAgEBPxBIDj//xAAdEAADAAICAwAAAAAAAAAAAAAAAREhkUFRMWFx/9oACAEBAAE/EOkMckdg02Z6qFwDmIlRCxKPaMTjw2JcE2fS2TF5JFURH//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6328&quot;
+        title=&quot;&quot;
+        src=&quot;/static/88440664847c4cfe032e54212effd6b9/1c72d/IMG_6328.jpg&quot;
+        srcset=&quot;/static/88440664847c4cfe032e54212effd6b9/a80bd/IMG_6328.jpg 148w,
+/static/88440664847c4cfe032e54212effd6b9/1c91a/IMG_6328.jpg 295w,
+/static/88440664847c4cfe032e54212effd6b9/1c72d/IMG_6328.jpg 590w,
+/static/88440664847c4cfe032e54212effd6b9/a8a14/IMG_6328.jpg 885w,
+/static/88440664847c4cfe032e54212effd6b9/a2510/IMG_6328.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.coderdojo.jp/2022/05/31/partnership-with-minecraftcup/&quot;&gt;教育版マインクラフトのライセンス貸出&lt;/a&gt; は CoderDojo 大阪狭山から申請をしています。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5c2dd34245b54ebad99c4e366946f829/a2510/IMG_6329.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABb32J3sl0nFCYf//EABoQAAMAAwEAAAAAAAAAAAAAAAABEwIDESD/2gAIAQEAAQUCMdjwG+ubHrZNlixbx//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/AWP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAbEAABBAMAAAAAAAAAAAAAAAAAARARMiAhMf/aAAgBAQAGPwI0pKt1qlSuH//EABwQAAMAAgMBAAAAAAAAAAAAAAABEWHwEEGRof/aAAgBAQABPyGj5qVHOZWzN8Iko8MxpTSmlEd8f//aAAwDAQACAAMAAAAQB+CD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREg/9oACAEDAQE/EEWY/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQIBAT8QCP/EAB0QAQACAQUBAAAAAAAAAAAAAAEAESFBUZHR8DH/2gAIAQEAAT8Qg0yzRBuolBVqyxybXSBAQNs+Y7fiX99S3vqX99QZhoj9n//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG_6329&quot;
+        title=&quot;&quot;
+        src=&quot;/static/5c2dd34245b54ebad99c4e366946f829/1c72d/IMG_6329.jpg&quot;
+        srcset=&quot;/static/5c2dd34245b54ebad99c4e366946f829/a80bd/IMG_6329.jpg 148w,
+/static/5c2dd34245b54ebad99c4e366946f829/1c91a/IMG_6329.jpg 295w,
+/static/5c2dd34245b54ebad99c4e366946f829/1c72d/IMG_6329.jpg 590w,
+/static/5c2dd34245b54ebad99c4e366946f829/a8a14/IMG_6329.jpg 885w,
+/static/5c2dd34245b54ebad99c4e366946f829/a2510/IMG_6329.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;h3&gt;工作島&lt;/h3&gt;
 &lt;p&gt;電子工作のメンターが準備をしてくれています。&lt;/p&gt;
 &lt;p&gt;
@@ -500,115 +609,6 @@
 /static/ce9cc32c905959ff598cdc10daebe24a/1c72d/IMG_6320.jpg 590w,
 /static/ce9cc32c905959ff598cdc10daebe24a/a8a14/IMG_6320.jpg 885w,
 /static/ce9cc32c905959ff598cdc10daebe24a/a2510/IMG_6320.jpg 1000w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;Minecraft カップ に興味があるそうです。&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3d3758d0c05e57b67696f5d8036e95df/a2510/IMG_6733.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB7mlwKEEv1qtDSfOTQ9dRZgGVf//EABwQAAICAwEBAAAAAAAAAAAAAAECACIREjEhQf/aAAgBAQABBQLsarbiLmMNgVAgUYbvpg4DmM1vgNmNv//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABcRAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8Bwwcc/8QAGRAAAwADAAAAAAAAAAAAAAAAAAEgEDEy/9oACAEBAAY/AsblHNM//8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERITFBYf/aAAgBAQABPyGJYxaVxDTF4+HXfS2muejaOsUOIV7ourkeDlN1TEWIOD//2gAMAwEAAgADAAAAELjbwwfv/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAQEUH/2gAIAQMBAT8QXs0rW//EABkRAQACAwAAAAAAAAAAAAAAAAEAEBFBUf/aAAgBAgEBPxA0oCYO3//EAB0QAQEBAQACAwEAAAAAAAAAAAERACExUUFhccH/2gAIAQEAAT8QRpcAH8xBNgS/M0QSCD+rlCpKnM6FewecnZD596C7Q8m5BqYTyYB1fEobr+8lEB+3EAtOe8lReTOQYT+5lm9d/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;IMG_6733&quot;
-        title=&quot;&quot;
-        src=&quot;/static/3d3758d0c05e57b67696f5d8036e95df/1c72d/IMG_6733.jpg&quot;
-        srcset=&quot;/static/3d3758d0c05e57b67696f5d8036e95df/a80bd/IMG_6733.jpg 148w,
-/static/3d3758d0c05e57b67696f5d8036e95df/1c91a/IMG_6733.jpg 295w,
-/static/3d3758d0c05e57b67696f5d8036e95df/1c72d/IMG_6733.jpg 590w,
-/static/3d3758d0c05e57b67696f5d8036e95df/a8a14/IMG_6733.jpg 885w,
-/static/3d3758d0c05e57b67696f5d8036e95df/a2510/IMG_6733.jpg 1000w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;h3&gt;Minecraft カップ&lt;/h3&gt;
-&lt;p&gt;11 時から &lt;a href=&quot;https://minecraftcup.com/&quot;&gt;Minecraft カップ&lt;/a&gt; の&lt;a href=&quot;https://www.youtube.com/watch?v=WbVrlx_LZ2g&quot;&gt;オープニングイベント&lt;/a&gt;が開催されるのでみんなで観ます。&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/88440664847c4cfe032e54212effd6b9/a2510/IMG_6328.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAEDBAUC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAGB2+pmgWzLleG27ZiB/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERAhIg/9oACAEBAAEFAqilRnKHlTn3/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIRICH/2gAIAQMBAT8BLbFP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGRAAAQUAAAAAAAAAAAAAAAAAAQAQITAx/9oACAEBAAY/AnkLBR//xAAbEAACAwADAAAAAAAAAAAAAAAAAREhUSBhkf/aAAgBAQABPyFaEdOwsQDLpAoZ4VpWlcP/2gAMAwEAAgADAAAAEDf4gv/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEh/9oACAEDAQE/EGLIqf/EABYRAQEBAAAAAAAAAAAAAAAAAAERIP/aAAgBAgEBPxBIDj//xAAdEAADAAICAwAAAAAAAAAAAAAAAREhkUFRMWFx/9oACAEBAAE/EOkMckdg02Z6qFwDmIlRCxKPaMTjw2JcE2fS2TF5JFURH//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;IMG_6328&quot;
-        title=&quot;&quot;
-        src=&quot;/static/88440664847c4cfe032e54212effd6b9/1c72d/IMG_6328.jpg&quot;
-        srcset=&quot;/static/88440664847c4cfe032e54212effd6b9/a80bd/IMG_6328.jpg 148w,
-/static/88440664847c4cfe032e54212effd6b9/1c91a/IMG_6328.jpg 295w,
-/static/88440664847c4cfe032e54212effd6b9/1c72d/IMG_6328.jpg 590w,
-/static/88440664847c4cfe032e54212effd6b9/a8a14/IMG_6328.jpg 885w,
-/static/88440664847c4cfe032e54212effd6b9/a2510/IMG_6328.jpg 1000w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.coderdojo.jp/2022/05/31/partnership-with-minecraftcup/&quot;&gt;教育版マインクラフトのライセンス貸出&lt;/a&gt; は CoderDojo 大阪狭山から申請をしています。&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5c2dd34245b54ebad99c4e366946f829/a2510/IMG_6329.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABb32J3sl0nFCYf//EABoQAAMAAwEAAAAAAAAAAAAAAAABEwIDESD/2gAIAQEAAQUCMdjwG+ubHrZNlixbx//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/AWP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAbEAABBAMAAAAAAAAAAAAAAAAAARARMiAhMf/aAAgBAQAGPwI0pKt1qlSuH//EABwQAAMAAgMBAAAAAAAAAAAAAAABEWHwEEGRof/aAAgBAQABPyGj5qVHOZWzN8Iko8MxpTSmlEd8f//aAAwDAQACAAMAAAAQB+CD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREg/9oACAEDAQE/EEWY/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQIBAT8QCP/EAB0QAQACAQUBAAAAAAAAAAAAAAEAESFBUZHR8DH/2gAIAQEAAT8Qg0yzRBuolBVqyxybXSBAQNs+Y7fiX99S3vqX99QZhoj9n//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;IMG_6329&quot;
-        title=&quot;&quot;
-        src=&quot;/static/5c2dd34245b54ebad99c4e366946f829/1c72d/IMG_6329.jpg&quot;
-        srcset=&quot;/static/5c2dd34245b54ebad99c4e366946f829/a80bd/IMG_6329.jpg 148w,
-/static/5c2dd34245b54ebad99c4e366946f829/1c91a/IMG_6329.jpg 295w,
-/static/5c2dd34245b54ebad99c4e366946f829/1c72d/IMG_6329.jpg 590w,
-/static/5c2dd34245b54ebad99c4e366946f829/a8a14/IMG_6329.jpg 885w,
-/static/5c2dd34245b54ebad99c4e366946f829/a2510/IMG_6329.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -950,7 +950,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;開催日は 8 月 27 日で、開催場所は奈良県で、テーマは “Be Cool” です。&lt;/p&gt;
+&lt;p&gt;開催日は &lt;code class=&quot;language-text&quot;&gt;8月27日&lt;/code&gt; 開催場所は &lt;code class=&quot;language-text&quot;&gt;奈良県&lt;/code&gt; テーマは &lt;code class=&quot;language-text&quot;&gt;&quot;Be Cool&quot;&lt;/code&gt; です。&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -987,7 +987,7 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;h3&gt;クロージング&lt;/h3&gt;
-&lt;p&gt;DojoCon Japan や メイカーフェア が開催されるほど通常に戻ってよかったです。（奈良で会いましょう。）&lt;/p&gt;
+&lt;p&gt;DojoCon Japan や メイカーフェア が開催されるほど通常に戻ってよかったです。（みなさんと京都や奈良で会いましょう。）&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
