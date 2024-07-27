@@ -3,7 +3,7 @@ title: CoderDojo 76回目@大阪狭山
 date: "2024-06-16T09:30:00Z"
 ---
 
-[子ども向けプログラミング道場：コーダー道場 75 回目 @大阪狭山](https://coderdojo-osakasayama.doorkeeper.jp/events/173762)
+[子ども向けプログラミング道場：コーダー道場 76 回目 @大阪狭山](https://coderdojo-osakasayama.doorkeeper.jp/events/173762)
 
 `3`名の **メンター** と`4`名の **ニンジャ** が集まりました。
 
